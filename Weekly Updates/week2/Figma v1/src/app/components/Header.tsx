@@ -1,0 +1,213 @@
+import { useState } from 'react';
+import { CreditCard, Landmark, Settings, LogOut, User, ChevronDown, Menu, X } from 'lucide-react';
+
+export function Header() {
+  const [isUserMenuOpen, setIsUserMenuOpen] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isAddAccountMenuOpen, setIsAddAccountMenuOpen] = useState(false);
+
+  const handleAddCreditCard = () => {
+    alert('Opening add credit card dialog...');
+    setIsAddAccountMenuOpen(false);
+  };
+
+  const handleAddBankAccount = () => {
+    alert('Opening add bank account dialog...');
+    setIsAddAccountMenuOpen(false);
+  };
+
+  const handleSettings = () => {
+    alert('Opening settings...');
+    setIsUserMenuOpen(false);
+  };
+
+  const handleSignOut = () => {
+    alert('Signing out...');
+    setIsUserMenuOpen(false);
+  };
+
+  return (
+    <header className="bg-white shadow-md border-b border-gray-200 sticky top-0 z-50">
+      <div className="max-w-7xl mx-auto px-6 py-4">
+        <div className="flex items-center justify-between">
+          {/* Logo/Brand */}
+          <div className="flex items-center gap-3">
+            <div className="p-2 bg-gradient-to-br from-purple-500 to-indigo-600 rounded-lg">
+              <CreditCard className="w-6 h-6 text-white" />
+            </div>
+            <div>
+              <h1 className="text-xl font-bold text-gray-900">BudgetTracker</h1>
+              <p className="text-xs text-gray-500">Student Edition</p>
+            </div>
+          </div>
+
+          {/* Desktop Navigation */}
+          <div className="hidden md:flex items-center gap-4">
+            {/* Add Account Dropdown */}
+            <div className="relative">
+              <button
+                onClick={() => setIsAddAccountMenuOpen(!isAddAccountMenuOpen)}
+                className="flex items-center gap-2 px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors"
+              >
+                <CreditCard className="w-4 h-4" />
+                <span>Add Account</span>
+                <ChevronDown className={`w-4 h-4 transition-transform ${isAddAccountMenuOpen ? 'rotate-180' : ''}`} />
+              </button>
+
+              {isAddAccountMenuOpen && (
+                <>
+                  <div 
+                    className="fixed inset-0 z-10" 
+                    onClick={() => setIsAddAccountMenuOpen(false)}
+                  />
+                  <div className="absolute right-0 mt-2 w-56 bg-white rounded-lg shadow-lg border border-gray-200 py-2 z-20">
+                    <button
+                      onClick={handleAddCreditCard}
+                      className="w-full flex items-center gap-3 px-4 py-3 hover:bg-gray-50 transition-colors"
+                    >
+                      <CreditCard className="w-5 h-5 text-indigo-600" />
+                      <div className="text-left">
+                        <div className="font-medium text-gray-900">Credit Card</div>
+                        <div className="text-xs text-gray-500">Link your credit card</div>
+                      </div>
+                    </button>
+                    <button
+                      onClick={handleAddBankAccount}
+                      className="w-full flex items-center gap-3 px-4 py-3 hover:bg-gray-50 transition-colors"
+                    >
+                      <Landmark className="w-5 h-5 text-green-600" />
+                      <div className="text-left">
+                        <div className="font-medium text-gray-900">Bank Account</div>
+                        <div className="text-xs text-gray-500">Connect your bank</div>
+                      </div>
+                    </button>
+                  </div>
+                </>
+              )}
+            </div>
+
+            {/* User Menu Dropdown */}
+            <div className="relative">
+              <button
+                onClick={() => setIsUserMenuOpen(!isUserMenuOpen)}
+                className="flex items-center gap-2 px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors"
+              >
+                <div className="w-8 h-8 bg-gradient-to-br from-purple-400 to-indigo-500 rounded-full flex items-center justify-center">
+                  <User className="w-5 h-5 text-white" />
+                </div>
+                <span className="font-medium text-gray-900">John Student</span>
+                <ChevronDown className={`w-4 h-4 text-gray-600 transition-transform ${isUserMenuOpen ? 'rotate-180' : ''}`} />
+              </button>
+
+              {isUserMenuOpen && (
+                <>
+                  <div 
+                    className="fixed inset-0 z-10" 
+                    onClick={() => setIsUserMenuOpen(false)}
+                  />
+                  <div className="absolute right-0 mt-2 w-56 bg-white rounded-lg shadow-lg border border-gray-200 py-2 z-20">
+                    <div className="px-4 py-3 border-b border-gray-100">
+                      <div className="font-medium text-gray-900">John Student</div>
+                      <div className="text-sm text-gray-500">john.student@university.edu</div>
+                    </div>
+                    <button
+                      onClick={handleSettings}
+                      className="w-full flex items-center gap-3 px-4 py-3 hover:bg-gray-50 transition-colors"
+                    >
+                      <Settings className="w-5 h-5 text-gray-600" />
+                      <span className="text-gray-900">Settings</span>
+                    </button>
+                    <div className="border-t border-gray-100 mt-2 pt-2">
+                      <button
+                        onClick={handleSignOut}
+                        className="w-full flex items-center gap-3 px-4 py-3 hover:bg-red-50 transition-colors text-red-600"
+                      >
+                        <LogOut className="w-5 h-5" />
+                        <span>Sign Out</span>
+                      </button>
+                    </div>
+                  </div>
+                </>
+              )}
+            </div>
+          </div>
+
+          {/* Mobile Menu Button */}
+          <button
+            onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+            className="md:hidden p-2 hover:bg-gray-100 rounded-lg transition-colors"
+          >
+            {isMobileMenuOpen ? (
+              <X className="w-6 h-6 text-gray-900" />
+            ) : (
+              <Menu className="w-6 h-6 text-gray-900" />
+            )}
+          </button>
+        </div>
+
+        {/* Mobile Menu */}
+        {isMobileMenuOpen && (
+          <div className="md:hidden mt-4 pt-4 border-t border-gray-200">
+            <div className="space-y-2">
+              {/* User Info */}
+              <div className="px-4 py-3 bg-gray-50 rounded-lg">
+                <div className="flex items-center gap-3 mb-3">
+                  <div className="w-10 h-10 bg-gradient-to-br from-purple-400 to-indigo-500 rounded-full flex items-center justify-center">
+                    <User className="w-6 h-6 text-white" />
+                  </div>
+                  <div>
+                    <div className="font-medium text-gray-900">John Student</div>
+                    <div className="text-sm text-gray-500">john.student@university.edu</div>
+                  </div>
+                </div>
+              </div>
+
+              {/* Add Accounts */}
+              <div className="space-y-2">
+                <p className="px-4 text-sm font-medium text-gray-500">Add Account</p>
+                <button
+                  onClick={handleAddCreditCard}
+                  className="w-full flex items-center gap-3 px-4 py-3 hover:bg-gray-50 rounded-lg transition-colors"
+                >
+                  <CreditCard className="w-5 h-5 text-indigo-600" />
+                  <div className="text-left">
+                    <div className="font-medium text-gray-900">Credit Card</div>
+                    <div className="text-xs text-gray-500">Link your credit card</div>
+                  </div>
+                </button>
+                <button
+                  onClick={handleAddBankAccount}
+                  className="w-full flex items-center gap-3 px-4 py-3 hover:bg-gray-50 rounded-lg transition-colors"
+                >
+                  <Landmark className="w-5 h-5 text-green-600" />
+                  <div className="text-left">
+                    <div className="font-medium text-gray-900">Bank Account</div>
+                    <div className="text-xs text-gray-500">Connect your bank</div>
+                  </div>
+                </button>
+              </div>
+
+              {/* Settings & Sign Out */}
+              <div className="pt-2 border-t border-gray-200 space-y-2">
+                <button
+                  onClick={handleSettings}
+                  className="w-full flex items-center gap-3 px-4 py-3 hover:bg-gray-50 rounded-lg transition-colors"
+                >
+                  <Settings className="w-5 h-5 text-gray-600" />
+                  <span className="text-gray-900">Settings</span>
+                </button>
+                <button
+                  onClick={handleSignOut}
+                  className="w-full flex items-center gap-3 px-4 py-3 hover:bg-red-50 rounded-lg transition-colors text-red-600"
+                >
+                  <LogOut className="w-5 h-5" />
+                  <span>Sign Out</span>
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+      </div>
+    </header>
+  );
+}

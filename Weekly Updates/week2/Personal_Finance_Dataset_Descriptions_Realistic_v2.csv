@@ -1,0 +1,1501 @@
+date,description,category,amount,type
+2020-01-02,Coffee Shop,Food & Drink,28.88,Expense
+2020-01-02,Phone Bill,Utilities,47.53,Expense
+2020-01-04,Rent Paid,Rent,918.36,Expense
+2020-01-05,Pet Supplies,Investment,108.5,Income
+2020-01-13,McDonald's,Food & Drink,11.16,Expense
+2020-01-14,Target,Shopping,205.84,Expense
+2020-01-18,Thai Restaurant,Food & Drink,37.32,Expense
+2020-01-19,Other,Other,25.58,Expense
+2020-01-21,Streaming Subscription,Entertainment,40.42,Expense
+2020-01-25,Rent Paid,Rent,918.36,Expense
+2020-01-25,Office Supplies,Health & Fitness,99.27,Expense
+2020-01-26,Salary Received,Salary,1082.96,Income
+2020-01-29,Target,Shopping,224.12,Expense
+2020-01-30,Pet Supplies,Health & Fitness,63.99,Expense
+2020-01-31,Thai Restaurant,Food & Drink,13.57,Expense
+2020-01-31,Rent Paid,Rent,918.36,Expense
+2020-01-31,Online Retail Order,Shopping,208.7,Expense
+2020-02-02,Office Supplies,Health & Fitness,29.58,Expense
+2020-02-04,Train Ticket,Travel,450.05,Expense
+2020-02-05,Rent Paid,Rent,918.36,Expense
+2020-02-05,Pet Supplies,Investment,465.16,Income
+2020-02-07,Hotel Stay,Travel,154.51,Expense
+2020-02-07,Streaming Subscription,Entertainment,97.9,Expense
+2020-02-08,Pizza Place,Food & Drink,23.14,Expense
+2020-02-08,Other,Other,327.16,Income
+2020-02-09,Concert Ticket,Entertainment,35.47,Expense
+2020-02-11,Office Supplies,Health & Fitness,24.08,Expense
+2020-02-13,Salary Received,Salary,1082.96,Income
+2020-02-15,Other,Other,58.74,Expense
+2020-02-16,Online Retail Order,Shopping,131.98,Expense
+2020-02-16,Electric Bill,Utilities,121.58,Expense
+2020-02-18,Pet Supplies,Investment,27.15,Income
+2020-02-19,Pet Supplies,Investment,369.56,Income
+2020-02-20,Target,Shopping,230.87,Expense
+2020-02-26,Car Rental,Travel,382.81,Expense
+2020-02-27,Pizza Place,Food & Drink,37.1,Expense
+2020-02-28,Other,Other,47.61,Expense
+2020-02-28,Other,Other,190.36,Income
+2020-02-29,Uber Ride,Travel,521.52,Expense
+2020-03-03,Rent Paid,Rent,918.36,Expense
+2020-03-04,Streaming Subscription,Entertainment,34.0,Expense
+2020-03-04,Local Burger Joint,Food & Drink,35.31,Expense
+2020-03-09,Rent Paid,Rent,918.36,Expense
+2020-03-09,Train Ticket,Travel,443.84,Expense
+2020-03-11,Rent Paid,Rent,918.36,Expense
+2020-03-11,Rent Paid,Rent,918.36,Expense
+2020-03-12,Water Bill,Utilities,78.9,Expense
+2020-03-12,Internet Bill,Utilities,151.59,Expense
+2020-03-14,Electronics Shop,Shopping,218.33,Expense
+2020-03-15,Movie Theater,Entertainment,42.94,Expense
+2020-03-18,Pet Supplies,Health & Fitness,65.61,Expense
+2020-03-21,Rent Paid,Rent,918.36,Expense
+2020-03-23,Household Supplies,Investment,299.95,Income
+2020-03-23,Local Burger Joint,Food & Drink,13.33,Expense
+2020-03-24,Arcade,Entertainment,94.15,Expense
+2020-03-28,Other,Other,95.91,Expense
+2020-04-01,Train Ticket,Travel,120.71,Expense
+2020-04-05,Electric Bill,Utilities,83.78,Expense
+2020-04-06,Salary Received,Salary,1082.96,Income
+2020-04-06,Target,Shopping,18.4,Expense
+2020-04-10,Other,Other,109.09,Expense
+2020-04-17,Salary Received,Salary,1082.96,Income
+2020-04-17,Pet Supplies,Investment,258.42,Income
+2020-04-18,Household Supplies,Health & Fitness,58.86,Expense
+2020-04-22,Office Supplies,Investment,143.63,Income
+2020-04-23,Electric Bill,Utilities,40.45,Expense
+2020-04-25,Arcade,Entertainment,51.92,Expense
+2020-04-26,Household Supplies,Investment,225.1,Income
+2020-04-26,McDonald's,Food & Drink,34.23,Expense
+2020-04-27,Streaming Subscription,Entertainment,77.81,Expense
+2020-04-27,Concert Ticket,Entertainment,39.27,Expense
+2020-04-29,Water Bill,Utilities,153.54,Expense
+2020-04-30,Uber Ride,Travel,309.7,Expense
+2020-05-01,Hotel Stay,Travel,460.11,Expense
+2020-05-03,Salary Received,Salary,1082.96,Income
+2020-05-03,Coffee Shop,Food & Drink,24.81,Expense
+2020-05-05,Office Supplies,Health & Fitness,55.31,Expense
+2020-05-06,Internet Bill,Utilities,95.46,Expense
+2020-05-06,Phone Bill,Utilities,43.11,Expense
+2020-05-07,Pet Supplies,Investment,319.31,Income
+2020-05-11,Office Supplies,Investment,228.96,Income
+2020-05-12,Electronics Shop,Shopping,129.13,Expense
+2020-05-13,Household Supplies,Health & Fitness,64.7,Expense
+2020-05-14,Office Supplies,Health & Fitness,51.99,Expense
+2020-05-15,Car Rental,Travel,355.7,Expense
+2020-05-16,Rent Paid,Rent,918.36,Expense
+2020-05-17,Rent Paid,Rent,918.36,Expense
+2020-05-19,Airline Ticket,Travel,60.8,Expense
+2020-05-20,Rent Paid,Rent,918.36,Expense
+2020-05-21,Electric Bill,Utilities,108.37,Expense
+2020-05-25,Airline Ticket,Travel,373.88,Expense
+2020-05-27,McDonald's,Food & Drink,31.04,Expense
+2020-05-28,Rent Paid,Rent,918.36,Expense
+2020-05-29,Pet Supplies,Investment,165.35,Income
+2020-05-30,Water Bill,Utilities,40.82,Expense
+2020-05-31,Household Supplies,Health & Fitness,92.0,Expense
+2020-05-31,Car Rental,Travel,64.99,Expense
+2020-06-01,McDonald's,Food & Drink,22.15,Expense
+2020-06-02,Train Ticket,Travel,196.53,Expense
+2020-06-05,Phone Bill,Utilities,157.72,Expense
+2020-06-06,Salary Received,Salary,1082.96,Income
+2020-06-07,McDonald's,Food & Drink,38.27,Expense
+2020-06-08,Phone Bill,Utilities,84.64,Expense
+2020-06-09,Phone Bill,Utilities,165.69,Expense
+2020-06-09,Other,Other,25.4,Expense
+2020-06-10,Movie Theater,Entertainment,47.13,Expense
+2020-06-10,Pet Supplies,Health & Fitness,98.39,Expense
+2020-06-11,Target,Shopping,202.73,Expense
+2020-06-11,Streaming Subscription,Entertainment,82.08,Expense
+2020-06-12,Water Bill,Utilities,72.02,Expense
+2020-06-14,Other,Other,333.34,Income
+2020-06-15,Streaming Subscription,Entertainment,25.14,Expense
+2020-06-18,Rent Paid,Rent,918.36,Expense
+2020-06-18,Other,Other,163.19,Income
+2020-06-18,Other,Other,484.14,Income
+2020-06-19,Bowling Alley,Entertainment,56.68,Expense
+2020-06-19,Online Retail Order,Shopping,50.61,Expense
+2020-06-21,Hotel Stay,Travel,526.5,Expense
+2020-06-21,Household Supplies,Health & Fitness,25.6,Expense
+2020-06-22,Other,Other,110.78,Expense
+2020-06-22,Hotel Stay,Travel,37.57,Expense
+2020-06-24,Pet Supplies,Health & Fitness,69.31,Expense
+2020-06-30,Rent Paid,Rent,918.36,Expense
+2020-06-30,Car Rental,Travel,268.71,Expense
+2020-07-02,Bowling Alley,Entertainment,104.45,Expense
+2020-07-03,Other,Other,78.13,Expense
+2020-07-04,Rent Paid,Rent,918.36,Expense
+2020-07-05,Airline Ticket,Travel,113.28,Expense
+2020-07-06,Hotel Stay,Travel,229.01,Expense
+2020-07-06,Other,Other,91.56,Expense
+2020-07-08,Uber Ride,Travel,391.5,Expense
+2020-07-11,Hotel Stay,Travel,560.03,Expense
+2020-07-12,Office Supplies,Health & Fitness,35.11,Expense
+2020-07-12,Movie Theater,Entertainment,85.69,Expense
+2020-07-13,Water Bill,Utilities,60.87,Expense
+2020-07-17,Household Supplies,Health & Fitness,90.12,Expense
+2020-07-20,Streaming Subscription,Entertainment,42.25,Expense
+2020-07-21,Bowling Alley,Entertainment,36.81,Expense
+2020-07-21,Other,Other,267.27,Income
+2020-07-22,Streaming Subscription,Entertainment,35.28,Expense
+2020-07-22,Clothing Store,Shopping,102.1,Expense
+2020-07-22,Thai Restaurant,Food & Drink,16.5,Expense
+2020-07-23,Rent Paid,Rent,918.36,Expense
+2020-07-24,Salary Received,Salary,1082.96,Income
+2020-07-28,Rent Paid,Rent,918.36,Expense
+2020-07-28,Office Supplies,Health & Fitness,75.45,Expense
+2020-07-29,Online Retail Order,Shopping,143.01,Expense
+2020-07-30,Internet Bill,Utilities,144.95,Expense
+2020-07-31,Uber Ride,Travel,191.07,Expense
+2020-08-01,Train Ticket,Travel,577.12,Expense
+2020-08-01,Concert Ticket,Entertainment,69.78,Expense
+2020-08-01,Other,Other,416.43,Income
+2020-08-02,Office Supplies,Health & Fitness,83.13,Expense
+2020-08-03,Household Supplies,Investment,93.1,Income
+2020-08-04,Water Bill,Utilities,60.3,Expense
+2020-08-04,Other,Other,56.56,Expense
+2020-08-04,Clothing Store,Shopping,123.58,Expense
+2020-08-05,Target,Shopping,137.65,Expense
+2020-08-05,Local Burger Joint,Food & Drink,14.52,Expense
+2020-08-06,Target,Shopping,57.33,Expense
+2020-08-08,Uber Ride,Travel,312.27,Expense
+2020-08-08,Electronics Shop,Shopping,170.02,Expense
+2020-08-09,Streaming Subscription,Entertainment,35.16,Expense
+2020-08-13,Salary Received,Salary,1104.62,Income
+2020-08-14,Online Retail Order,Shopping,66.33,Expense
+2020-08-16,Electric Bill,Utilities,173.69,Expense
+2020-08-17,Amazon Purchase,Shopping,185.35,Expense
+2020-08-18,Rent Paid,Rent,918.36,Expense
+2020-08-19,Other,Other,182.63,Income
+2020-08-20,Other,Other,36.96,Expense
+2020-08-21,Office Supplies,Health & Fitness,8.95,Expense
+2020-08-21,Airline Ticket,Travel,589.34,Expense
+2020-08-22,Airline Ticket,Travel,24.93,Expense
+2020-08-22,Thai Restaurant,Food & Drink,14.27,Expense
+2020-08-26,Rent Paid,Rent,918.36,Expense
+2020-08-27,Pizza Place,Food & Drink,37.11,Expense
+2020-08-27,Office Supplies,Investment,430.26,Income
+2020-08-29,Salary Received,Salary,1104.62,Income
+2020-08-30,Movie Theater,Entertainment,25.91,Expense
+2020-08-31,Pet Supplies,Health & Fitness,25.61,Expense
+2020-09-01,Rent Paid,Rent,918.36,Expense
+2020-09-05,Other,Other,31.03,Expense
+2020-09-05,Car Rental,Travel,475.11,Expense
+2020-09-06,Clothing Store,Shopping,225.42,Expense
+2020-09-07,Rent Paid,Rent,918.36,Expense
+2020-09-08,Streaming Subscription,Entertainment,60.68,Expense
+2020-09-11,Rent Paid,Rent,918.36,Expense
+2020-09-11,Local Burger Joint,Food & Drink,6.35,Expense
+2020-09-11,Household Supplies,Health & Fitness,41.26,Expense
+2020-09-16,McDonald's,Food & Drink,5.54,Expense
+2020-09-17,Rent Paid,Rent,918.36,Expense
+2020-09-17,Salary Received,Salary,1104.62,Income
+2020-09-18,Uber Ride,Travel,222.52,Expense
+2020-09-18,Salary Received,Salary,1104.62,Income
+2020-09-22,Uber Ride,Travel,402.4,Expense
+2020-09-22,Rent Paid,Rent,918.36,Expense
+2020-09-22,Salary Received,Salary,1104.62,Income
+2020-09-23,Pet Supplies,Health & Fitness,35.5,Expense
+2020-09-23,Phone Bill,Utilities,131.28,Expense
+2020-09-25,Uber Ride,Travel,557.94,Expense
+2020-09-27,Airline Ticket,Travel,290.36,Expense
+2020-09-27,Movie Theater,Entertainment,32.78,Expense
+2020-09-27,Salary Received,Salary,1104.62,Income
+2020-09-29,Salary Received,Salary,1104.62,Income
+2020-09-30,Coffee Shop,Food & Drink,37.29,Expense
+2020-10-01,Movie Theater,Entertainment,114.04,Expense
+2020-10-03,Salary Received,Salary,1104.62,Income
+2020-10-04,Pet Supplies,Health & Fitness,20.51,Expense
+2020-10-07,Hotel Stay,Travel,541.79,Expense
+2020-10-07,Office Supplies,Investment,81.52,Income
+2020-10-07,Office Supplies,Investment,384.54,Income
+2020-10-08,Salary Received,Salary,1104.62,Income
+2020-10-08,Car Rental,Travel,71.3,Expense
+2020-10-10,Car Rental,Travel,462.63,Expense
+2020-10-10,Household Supplies,Investment,221.02,Income
+2020-10-10,Office Supplies,Investment,333.28,Income
+2020-10-12,Electric Bill,Utilities,104.09,Expense
+2020-10-14,Rent Paid,Rent,918.36,Expense
+2020-10-15,Salary Received,Salary,1104.62,Income
+2020-10-16,McDonald's,Food & Drink,18.78,Expense
+2020-10-16,Rent Paid,Rent,918.36,Expense
+2020-10-16,Rent Paid,Rent,918.36,Expense
+2020-10-18,Internet Bill,Utilities,152.65,Expense
+2020-10-19,Uber Ride,Travel,286.23,Expense
+2020-10-23,Electronics Shop,Shopping,177.52,Expense
+2020-10-24,Arcade,Entertainment,96.02,Expense
+2020-10-26,Salary Received,Salary,1104.62,Income
+2020-10-27,Clothing Store,Shopping,159.5,Expense
+2020-10-27,Rent Paid,Rent,918.36,Expense
+2020-10-27,Movie Theater,Entertainment,115.75,Expense
+2020-10-28,Pet Supplies,Investment,125.13,Income
+2020-10-29,Phone Bill,Utilities,115.86,Expense
+2020-10-30,Salary Received,Salary,1104.62,Income
+2020-10-31,Train Ticket,Travel,161.84,Expense
+2020-11-01,Concert Ticket,Entertainment,19.17,Expense
+2020-11-01,Movie Theater,Entertainment,93.2,Expense
+2020-11-02,Water Bill,Utilities,77.03,Expense
+2020-11-04,Rent Paid,Rent,918.36,Expense
+2020-11-06,Uber Ride,Travel,201.91,Expense
+2020-11-07,Uber Ride,Travel,593.24,Expense
+2020-11-09,Salary Received,Salary,1104.62,Income
+2020-11-10,Amazon Purchase,Shopping,109.13,Expense
+2020-11-10,Pizza Place,Food & Drink,20.45,Expense
+2020-11-12,Pizza Place,Food & Drink,37.22,Expense
+2020-11-12,Hotel Stay,Travel,478.24,Expense
+2020-11-14,Internet Bill,Utilities,160.33,Expense
+2020-11-14,Train Ticket,Travel,291.65,Expense
+2020-11-14,Salary Received,Salary,1104.62,Income
+2020-11-14,Electronics Shop,Shopping,64.94,Expense
+2020-11-15,Electric Bill,Utilities,49.19,Expense
+2020-11-15,Hotel Stay,Travel,66.29,Expense
+2020-11-16,Grocery Store,Food & Drink,9.79,Expense
+2020-11-16,Office Supplies,Health & Fitness,35.98,Expense
+2020-11-17,Coffee Shop,Food & Drink,32.21,Expense
+2020-11-20,Online Retail Order,Shopping,68.94,Expense
+2020-11-22,Salary Received,Salary,1104.62,Income
+2020-11-23,Bowling Alley,Entertainment,56.4,Expense
+2020-11-25,Other,Other,65.47,Expense
+2020-11-25,Salary Received,Salary,1104.62,Income
+2020-11-26,Streaming Subscription,Entertainment,60.4,Expense
+2020-11-27,Grocery Store,Food & Drink,15.84,Expense
+2020-11-27,Household Supplies,Investment,148.65,Income
+2020-11-29,Phone Bill,Utilities,159.33,Expense
+2020-12-01,Airline Ticket,Travel,596.56,Expense
+2020-12-05,Salary Received,Salary,1104.62,Income
+2020-12-05,Amazon Purchase,Shopping,102.11,Expense
+2020-12-06,Phone Bill,Utilities,104.65,Expense
+2020-12-10,Electronics Shop,Shopping,93.72,Expense
+2020-12-10,Hotel Stay,Travel,231.95,Expense
+2020-12-11,Airline Ticket,Travel,418.56,Expense
+2020-12-12,Salary Received,Salary,1104.62,Income
+2020-12-13,Salary Received,Salary,1104.62,Income
+2020-12-14,Online Retail Order,Shopping,187.8,Expense
+2020-12-14,Bowling Alley,Entertainment,44.87,Expense
+2020-12-16,Online Retail Order,Shopping,49.08,Expense
+2020-12-16,Grocery Store,Food & Drink,29.76,Expense
+2020-12-16,Electronics Shop,Shopping,118.26,Expense
+2020-12-18,Water Bill,Utilities,168.28,Expense
+2020-12-18,Other,Other,226.84,Income
+2020-12-20,Salary Received,Salary,1104.62,Income
+2020-12-20,Local Burger Joint,Food & Drink,19.33,Expense
+2020-12-22,Phone Bill,Utilities,43.88,Expense
+2020-12-23,Uber Ride,Travel,441.16,Expense
+2020-12-23,Rent Paid,Rent,918.36,Expense
+2020-12-24,Electronics Shop,Shopping,246.66,Expense
+2020-12-25,Salary Received,Salary,1104.62,Income
+2020-12-26,Pet Supplies,Investment,477.27,Income
+2020-12-28,Train Ticket,Travel,114.3,Expense
+2020-12-30,Target,Shopping,65.02,Expense
+2020-12-31,Rent Paid,Rent,918.36,Expense
+2021-01-01,Pizza Place,Food & Drink,16.95,Expense
+2021-01-06,Train Ticket,Travel,255.45,Expense
+2021-01-06,Movie Theater,Entertainment,108.94,Expense
+2021-01-08,Water Bill,Utilities,176.15,Expense
+2021-01-10,Other,Other,81.27,Expense
+2021-01-10,Phone Bill,Utilities,111.43,Expense
+2021-01-11,Salary Received,Salary,1104.62,Income
+2021-01-12,Other,Other,6.48,Expense
+2021-01-13,Water Bill,Utilities,137.54,Expense
+2021-01-13,Uber Ride,Travel,384.02,Expense
+2021-01-14,Hotel Stay,Travel,519.11,Expense
+2021-01-14,Amazon Purchase,Shopping,40.33,Expense
+2021-01-15,Other,Other,56.49,Expense
+2021-01-15,Airline Ticket,Travel,345.77,Expense
+2021-01-17,Electronics Shop,Shopping,204.96,Expense
+2021-01-17,Coffee Shop,Food & Drink,32.1,Expense
+2021-01-19,Hotel Stay,Travel,465.13,Expense
+2021-01-20,Office Supplies,Health & Fitness,117.84,Expense
+2021-01-24,Other,Other,195.29,Income
+2021-01-26,McDonald's,Food & Drink,5.99,Expense
+2021-01-27,Pet Supplies,Health & Fitness,17.2,Expense
+2021-01-27,Other,Other,113.79,Income
+2021-01-27,Water Bill,Utilities,61.47,Expense
+2021-01-27,Pet Supplies,Health & Fitness,71.8,Expense
+2021-01-29,Phone Bill,Utilities,100.32,Expense
+2021-02-02,Salary Received,Salary,1126.71,Income
+2021-02-05,Office Supplies,Health & Fitness,12.37,Expense
+2021-02-05,Rent Paid,Rent,918.36,Expense
+2021-02-08,Amazon Purchase,Shopping,80.61,Expense
+2021-02-08,Household Supplies,Health & Fitness,49.94,Expense
+2021-02-09,Train Ticket,Travel,313.41,Expense
+2021-02-09,Hotel Stay,Travel,458.33,Expense
+2021-02-11,Office Supplies,Health & Fitness,61.24,Expense
+2021-02-11,Pizza Place,Food & Drink,33.9,Expense
+2021-02-13,Office Supplies,Health & Fitness,67.15,Expense
+2021-02-16,Rent Paid,Rent,918.36,Expense
+2021-02-18,Hotel Stay,Travel,227.17,Expense
+2021-02-19,Office Supplies,Investment,109.46,Income
+2021-02-20,Salary Received,Salary,1126.71,Income
+2021-02-21,Water Bill,Utilities,164.5,Expense
+2021-02-23,Clothing Store,Shopping,173.25,Expense
+2021-02-24,Amazon Purchase,Shopping,239.04,Expense
+2021-02-27,Online Retail Order,Shopping,64.31,Expense
+2021-02-28,Household Supplies,Health & Fitness,31.77,Expense
+2021-03-02,Bowling Alley,Entertainment,60.22,Expense
+2021-03-02,Other,Other,305.54,Income
+2021-03-02,Office Supplies,Health & Fitness,22.11,Expense
+2021-03-04,Rent Paid,Rent,902.46,Expense
+2021-03-05,Rent Paid,Rent,902.46,Expense
+2021-03-05,McDonald's,Food & Drink,6.39,Expense
+2021-03-07,Electric Bill,Utilities,89.27,Expense
+2021-03-07,Concert Ticket,Entertainment,92.62,Expense
+2021-03-08,Concert Ticket,Entertainment,107.79,Expense
+2021-03-09,Household Supplies,Investment,473.27,Income
+2021-03-09,Phone Bill,Utilities,51.09,Expense
+2021-03-10,Electric Bill,Utilities,50.96,Expense
+2021-03-12,Phone Bill,Utilities,138.75,Expense
+2021-03-15,Bowling Alley,Entertainment,17.46,Expense
+2021-03-15,Other,Other,228.95,Income
+2021-03-16,Other,Other,39.5,Expense
+2021-03-16,Office Supplies,Investment,151.62,Income
+2021-03-17,Office Supplies,Health & Fitness,19.8,Expense
+2021-03-17,Household Supplies,Investment,222.78,Income
+2021-03-18,Uber Ride,Travel,542.04,Expense
+2021-03-19,McDonald's,Food & Drink,22.24,Expense
+2021-03-20,Online Retail Order,Shopping,16.88,Expense
+2021-03-21,Salary Received,Salary,1126.71,Income
+2021-03-22,Pet Supplies,Investment,67.71,Income
+2021-03-22,Other,Other,29.08,Expense
+2021-03-22,Car Rental,Travel,125.18,Expense
+2021-03-23,Rent Paid,Rent,902.46,Expense
+2021-03-23,Pet Supplies,Investment,56.18,Income
+2021-03-24,Arcade,Entertainment,106.68,Expense
+2021-03-25,Online Retail Order,Shopping,173.22,Expense
+2021-03-26,Other,Other,105.58,Expense
+2021-03-27,Office Supplies,Health & Fitness,56.06,Expense
+2021-03-28,Salary Received,Salary,1126.71,Income
+2021-03-29,Rent Paid,Rent,902.46,Expense
+2021-03-30,Household Supplies,Health & Fitness,108.35,Expense
+2021-04-01,Household Supplies,Health & Fitness,75.34,Expense
+2021-04-02,Target,Shopping,175.2,Expense
+2021-04-03,Airline Ticket,Travel,433.33,Expense
+2021-04-03,Concert Ticket,Entertainment,58.34,Expense
+2021-04-03,Rent Paid,Rent,902.46,Expense
+2021-04-08,Rent Paid,Rent,902.46,Expense
+2021-04-08,Amazon Purchase,Shopping,83.89,Expense
+2021-04-09,Pizza Place,Food & Drink,36.04,Expense
+2021-04-11,Train Ticket,Travel,234.07,Expense
+2021-04-11,Uber Ride,Travel,273.34,Expense
+2021-04-12,Phone Bill,Utilities,78.68,Expense
+2021-04-13,Clothing Store,Shopping,145.11,Expense
+2021-04-18,Thai Restaurant,Food & Drink,23.84,Expense
+2021-04-19,Online Retail Order,Shopping,116.46,Expense
+2021-04-19,Office Supplies,Health & Fitness,45.63,Expense
+2021-04-19,Rent Paid,Rent,902.46,Expense
+2021-04-19,Pet Supplies,Investment,203.39,Income
+2021-04-21,Electronics Shop,Shopping,198.09,Expense
+2021-04-23,Car Rental,Travel,108.98,Expense
+2021-04-23,Household Supplies,Health & Fitness,87.85,Expense
+2021-04-24,Salary Received,Salary,1126.71,Income
+2021-04-27,Bowling Alley,Entertainment,32.95,Expense
+2021-04-27,Coffee Shop,Food & Drink,37.62,Expense
+2021-04-27,Water Bill,Utilities,93.9,Expense
+2021-04-30,Rent Paid,Rent,902.46,Expense
+2021-05-02,Phone Bill,Utilities,85.33,Expense
+2021-05-04,Arcade,Entertainment,109.11,Expense
+2021-05-04,Pet Supplies,Health & Fitness,10.45,Expense
+2021-05-06,Pizza Place,Food & Drink,39.22,Expense
+2021-05-07,Rent Paid,Rent,902.46,Expense
+2021-05-07,Online Retail Order,Shopping,233.24,Expense
+2021-05-07,Rent Paid,Rent,902.46,Expense
+2021-05-10,Phone Bill,Utilities,133.05,Expense
+2021-05-11,Household Supplies,Health & Fitness,70.5,Expense
+2021-05-11,Bowling Alley,Entertainment,67.68,Expense
+2021-05-12,Rent Paid,Rent,902.46,Expense
+2021-05-14,Pet Supplies,Health & Fitness,14.59,Expense
+2021-05-14,Rent Paid,Rent,902.46,Expense
+2021-05-15,Office Supplies,Investment,351.51,Income
+2021-05-17,Phone Bill,Utilities,174.12,Expense
+2021-05-19,Household Supplies,Investment,20.49,Income
+2021-05-22,Rent Paid,Rent,902.46,Expense
+2021-05-23,Salary Received,Salary,1126.71,Income
+2021-05-24,Salary Received,Salary,1126.71,Income
+2021-05-24,Office Supplies,Health & Fitness,100.32,Expense
+2021-05-24,Electric Bill,Utilities,156.27,Expense
+2021-05-25,Car Rental,Travel,215.18,Expense
+2021-05-25,Pet Supplies,Health & Fitness,83.18,Expense
+2021-05-27,Salary Received,Salary,1126.71,Income
+2021-05-27,Car Rental,Travel,102.12,Expense
+2021-05-29,Rent Paid,Rent,902.46,Expense
+2021-05-30,Salary Received,Salary,1126.71,Income
+2021-05-31,Local Burger Joint,Food & Drink,10.71,Expense
+2021-05-31,Bowling Alley,Entertainment,88.26,Expense
+2021-06-02,Electric Bill,Utilities,111.39,Expense
+2021-06-02,Office Supplies,Health & Fitness,72.73,Expense
+2021-06-03,Household Supplies,Investment,471.42,Income
+2021-06-06,Salary Received,Salary,1126.71,Income
+2021-06-06,Internet Bill,Utilities,150.42,Expense
+2021-06-06,Electronics Shop,Shopping,226.29,Expense
+2021-06-09,Coffee Shop,Food & Drink,15.21,Expense
+2021-06-11,Rent Paid,Rent,902.46,Expense
+2021-06-11,Online Retail Order,Shopping,245.21,Expense
+2021-06-14,Internet Bill,Utilities,154.63,Expense
+2021-06-15,Electric Bill,Utilities,53.94,Expense
+2021-06-16,Electronics Shop,Shopping,35.47,Expense
+2021-06-20,Rent Paid,Rent,902.46,Expense
+2021-06-20,Household Supplies,Health & Fitness,27.02,Expense
+2021-06-22,Rent Paid,Rent,902.46,Expense
+2021-06-23,Pet Supplies,Health & Fitness,43.68,Expense
+2021-06-24,Arcade,Entertainment,34.14,Expense
+2021-06-26,Concert Ticket,Entertainment,15.7,Expense
+2021-06-27,Office Supplies,Investment,146.01,Income
+2021-06-28,Rent Paid,Rent,902.46,Expense
+2021-06-28,Grocery Store,Food & Drink,21.19,Expense
+2021-06-28,Water Bill,Utilities,149.69,Expense
+2021-06-28,Pet Supplies,Investment,39.35,Income
+2021-06-29,Coffee Shop,Food & Drink,34.21,Expense
+2021-07-04,Arcade,Entertainment,63.94,Expense
+2021-07-04,Salary Received,Salary,1126.71,Income
+2021-07-04,Salary Received,Salary,1126.71,Income
+2021-07-06,Other,Other,402.78,Income
+2021-07-07,Target,Shopping,72.37,Expense
+2021-07-09,Electric Bill,Utilities,169.96,Expense
+2021-07-09,Phone Bill,Utilities,142.93,Expense
+2021-07-10,Other,Other,311.22,Income
+2021-07-10,Rent Paid,Rent,902.46,Expense
+2021-07-11,Rent Paid,Rent,902.46,Expense
+2021-07-11,Uber Ride,Travel,264.59,Expense
+2021-07-11,Electronics Shop,Shopping,96.57,Expense
+2021-07-12,Salary Received,Salary,1126.71,Income
+2021-07-13,Electronics Shop,Shopping,31.7,Expense
+2021-07-14,Movie Theater,Entertainment,41.42,Expense
+2021-07-15,Office Supplies,Investment,56.3,Income
+2021-07-19,Rent Paid,Rent,902.46,Expense
+2021-07-19,Phone Bill,Utilities,92.71,Expense
+2021-07-23,Salary Received,Salary,1126.71,Income
+2021-07-23,Other,Other,185.65,Income
+2021-07-24,Rent Paid,Rent,902.46,Expense
+2021-07-28,Internet Bill,Utilities,122.82,Expense
+2021-07-29,Electronics Shop,Shopping,188.89,Expense
+2021-08-02,Train Ticket,Travel,450.84,Expense
+2021-08-06,Salary Received,Salary,1149.25,Income
+2021-08-07,Salary Received,Salary,1149.25,Income
+2021-08-07,Household Supplies,Investment,178.04,Income
+2021-08-08,Thai Restaurant,Food & Drink,10.51,Expense
+2021-08-09,Electronics Shop,Shopping,186.38,Expense
+2021-08-11,Household Supplies,Health & Fitness,35.53,Expense
+2021-08-13,Grocery Store,Food & Drink,21.81,Expense
+2021-08-13,Electronics Shop,Shopping,226.44,Expense
+2021-08-15,Coffee Shop,Food & Drink,5.23,Expense
+2021-08-16,Household Supplies,Investment,375.13,Income
+2021-08-18,Pet Supplies,Health & Fitness,79.19,Expense
+2021-08-20,Household Supplies,Health & Fitness,51.81,Expense
+2021-08-21,Other,Other,474.47,Income
+2021-08-21,Internet Bill,Utilities,127.36,Expense
+2021-08-22,Salary Received,Salary,1149.25,Income
+2021-08-23,Movie Theater,Entertainment,114.35,Expense
+2021-08-24,Car Rental,Travel,75.26,Expense
+2021-08-25,Salary Received,Salary,1149.25,Income
+2021-08-27,Streaming Subscription,Entertainment,17.45,Expense
+2021-08-29,Local Burger Joint,Food & Drink,16.92,Expense
+2021-09-05,Rent Paid,Rent,902.46,Expense
+2021-09-06,Electronics Shop,Shopping,39.22,Expense
+2021-09-09,Amazon Purchase,Shopping,230.67,Expense
+2021-09-09,Other,Other,290.42,Income
+2021-09-09,Uber Ride,Travel,476.68,Expense
+2021-09-10,Rent Paid,Rent,902.46,Expense
+2021-09-11,Internet Bill,Utilities,62.18,Expense
+2021-09-11,Rent Paid,Rent,902.46,Expense
+2021-09-11,Salary Received,Salary,1149.25,Income
+2021-09-11,Salary Received,Salary,1149.25,Income
+2021-09-15,Other,Other,227.73,Income
+2021-09-16,Pizza Place,Food & Drink,18.08,Expense
+2021-09-16,Office Supplies,Health & Fitness,52.77,Expense
+2021-09-17,Water Bill,Utilities,173.62,Expense
+2021-09-17,Other,Other,452.22,Income
+2021-09-19,Office Supplies,Investment,250.5,Income
+2021-09-19,Coffee Shop,Food & Drink,23.51,Expense
+2021-09-19,Pet Supplies,Health & Fitness,94.91,Expense
+2021-09-19,Electric Bill,Utilities,161.53,Expense
+2021-09-20,Uber Ride,Travel,409.05,Expense
+2021-09-21,Pet Supplies,Investment,129.94,Income
+2021-09-28,Rent Paid,Rent,902.46,Expense
+2021-10-01,Salary Received,Salary,1149.25,Income
+2021-10-07,Salary Received,Salary,1149.25,Income
+2021-10-08,Pet Supplies,Investment,296.4,Income
+2021-10-13,Other,Other,41.72,Expense
+2021-10-13,Household Supplies,Health & Fitness,93.2,Expense
+2021-10-13,Hotel Stay,Travel,576.51,Expense
+2021-10-16,Phone Bill,Utilities,162.28,Expense
+2021-10-20,Rent Paid,Rent,902.46,Expense
+2021-10-21,Concert Ticket,Entertainment,96.66,Expense
+2021-10-22,Other,Other,354.08,Income
+2021-10-24,Electric Bill,Utilities,166.09,Expense
+2021-10-24,Other,Other,41.09,Expense
+2021-10-27,Salary Received,Salary,1149.25,Income
+2021-10-27,Rent Paid,Rent,902.46,Expense
+2021-10-30,Rent Paid,Rent,902.46,Expense
+2021-11-03,Pet Supplies,Health & Fitness,85.05,Expense
+2021-11-04,Electric Bill,Utilities,172.37,Expense
+2021-11-05,Pet Supplies,Investment,63.72,Income
+2021-11-05,Hotel Stay,Travel,443.12,Expense
+2021-11-06,Movie Theater,Entertainment,114.33,Expense
+2021-11-07,Hotel Stay,Travel,38.0,Expense
+2021-11-10,Airline Ticket,Travel,380.81,Expense
+2021-11-15,Rent Paid,Rent,902.46,Expense
+2021-11-16,Office Supplies,Investment,214.01,Income
+2021-11-17,Household Supplies,Health & Fitness,110.58,Expense
+2021-11-18,McDonald's,Food & Drink,16.7,Expense
+2021-11-18,Hotel Stay,Travel,382.97,Expense
+2021-11-19,Amazon Purchase,Shopping,114.5,Expense
+2021-11-21,Other,Other,35.08,Expense
+2021-11-21,Electronics Shop,Shopping,232.81,Expense
+2021-11-21,Office Supplies,Investment,67.7,Income
+2021-11-23,Salary Received,Salary,1149.25,Income
+2021-11-26,Electric Bill,Utilities,98.66,Expense
+2021-11-27,Pet Supplies,Health & Fitness,51.59,Expense
+2021-11-28,Other,Other,356.4,Income
+2021-12-01,Household Supplies,Health & Fitness,106.82,Expense
+2021-12-02,Other,Other,31.21,Expense
+2021-12-03,Pet Supplies,Investment,161.12,Income
+2021-12-03,Target,Shopping,110.65,Expense
+2021-12-08,Water Bill,Utilities,136.74,Expense
+2021-12-09,Office Supplies,Health & Fitness,53.57,Expense
+2021-12-09,Other,Other,61.71,Expense
+2021-12-11,Salary Received,Salary,1149.25,Income
+2021-12-12,Salary Received,Salary,1149.25,Income
+2021-12-13,Office Supplies,Health & Fitness,65.04,Expense
+2021-12-13,Salary Received,Salary,1149.25,Income
+2021-12-15,Office Supplies,Investment,32.86,Income
+2021-12-15,Other,Other,298.41,Income
+2021-12-16,Pet Supplies,Health & Fitness,20.31,Expense
+2021-12-19,Household Supplies,Investment,455.44,Income
+2021-12-20,Rent Paid,Rent,902.46,Expense
+2021-12-20,Train Ticket,Travel,522.88,Expense
+2021-12-23,Rent Paid,Rent,902.46,Expense
+2021-12-24,Other,Other,110.68,Income
+2021-12-26,Pet Supplies,Health & Fitness,86.33,Expense
+2021-12-28,Other,Other,89.09,Expense
+2021-12-31,Household Supplies,Investment,429.39,Income
+2022-01-01,Salary Received,Salary,1149.25,Income
+2022-01-03,Household Supplies,Investment,327.26,Income
+2022-01-03,Pet Supplies,Health & Fitness,103.11,Expense
+2022-01-03,Airline Ticket,Travel,530.49,Expense
+2022-01-04,Salary Received,Salary,1149.25,Income
+2022-01-05,Local Burger Joint,Food & Drink,14.59,Expense
+2022-01-06,Online Retail Order,Shopping,215.69,Expense
+2022-01-08,Coffee Shop,Food & Drink,25.59,Expense
+2022-01-09,Streaming Subscription,Entertainment,10.02,Expense
+2022-01-13,Water Bill,Utilities,67.59,Expense
+2022-01-13,Amazon Purchase,Shopping,198.21,Expense
+2022-01-14,McDonald's,Food & Drink,16.98,Expense
+2022-01-16,Arcade,Entertainment,102.74,Expense
+2022-01-16,Internet Bill,Utilities,124.37,Expense
+2022-01-18,Salary Received,Salary,1149.25,Income
+2022-01-18,Coffee Shop,Food & Drink,39.53,Expense
+2022-01-21,Office Supplies,Health & Fitness,92.84,Expense
+2022-01-21,Target,Shopping,36.87,Expense
+2022-01-22,Other,Other,283.27,Income
+2022-01-23,Hotel Stay,Travel,505.92,Expense
+2022-01-24,Household Supplies,Investment,125.66,Income
+2022-01-28,Concert Ticket,Entertainment,66.85,Expense
+2022-02-01,Train Ticket,Travel,113.0,Expense
+2022-02-02,Salary Received,Salary,1172.23,Income
+2022-02-05,Car Rental,Travel,236.37,Expense
+2022-02-05,Clothing Store,Shopping,190.03,Expense
+2022-02-06,Household Supplies,Health & Fitness,57.14,Expense
+2022-02-08,Uber Ride,Travel,403.65,Expense
+2022-02-08,Rent Paid,Rent,902.46,Expense
+2022-02-09,Hotel Stay,Travel,541.62,Expense
+2022-02-10,Train Ticket,Travel,426.88,Expense
+2022-02-10,Internet Bill,Utilities,52.89,Expense
+2022-02-10,Bowling Alley,Entertainment,55.37,Expense
+2022-02-10,Concert Ticket,Entertainment,44.77,Expense
+2022-02-11,Other,Other,318.32,Income
+2022-02-14,Rent Paid,Rent,902.46,Expense
+2022-02-17,Pet Supplies,Investment,450.49,Income
+2022-02-17,Salary Received,Salary,1172.23,Income
+2022-02-17,Other,Other,198.63,Income
+2022-02-17,Grocery Store,Food & Drink,17.0,Expense
+2022-02-18,Household Supplies,Investment,244.77,Income
+2022-02-21,Pizza Place,Food & Drink,34.32,Expense
+2022-02-22,Office Supplies,Investment,271.26,Income
+2022-02-22,Amazon Purchase,Shopping,163.48,Expense
+2022-02-25,Other,Other,53.32,Expense
+2022-02-27,Office Supplies,Investment,290.48,Income
+2022-03-01,Salary Received,Salary,1172.23,Income
+2022-03-02,Other,Other,61.91,Expense
+2022-03-04,Office Supplies,Investment,493.96,Income
+2022-03-05,Other,Other,59.05,Expense
+2022-03-07,Pizza Place,Food & Drink,29.05,Expense
+2022-03-07,Movie Theater,Entertainment,79.24,Expense
+2022-03-12,Clothing Store,Shopping,234.62,Expense
+2022-03-14,Rent Paid,Rent,902.46,Expense
+2022-03-17,Office Supplies,Investment,491.01,Income
+2022-03-17,Arcade,Entertainment,19.9,Expense
+2022-03-18,Salary Received,Salary,1172.23,Income
+2022-03-18,Hotel Stay,Travel,593.16,Expense
+2022-03-18,Hotel Stay,Travel,437.42,Expense
+2022-03-20,Grocery Store,Food & Drink,25.3,Expense
+2022-03-20,Phone Bill,Utilities,89.91,Expense
+2022-03-22,Hotel Stay,Travel,137.79,Expense
+2022-03-23,Uber Ride,Travel,589.88,Expense
+2022-03-23,Internet Bill,Utilities,72.93,Expense
+2022-03-24,Office Supplies,Health & Fitness,106.21,Expense
+2022-03-25,Salary Received,Salary,1172.23,Income
+2022-03-26,Movie Theater,Entertainment,16.28,Expense
+2022-03-27,Rent Paid,Rent,902.46,Expense
+2022-03-28,Pet Supplies,Health & Fitness,97.15,Expense
+2022-03-28,Coffee Shop,Food & Drink,35.44,Expense
+2022-03-28,Movie Theater,Entertainment,36.94,Expense
+2022-03-28,Other,Other,82.7,Expense
+2022-03-29,Arcade,Entertainment,117.46,Expense
+2022-03-29,Salary Received,Salary,1172.23,Income
+2022-03-31,Electronics Shop,Shopping,102.38,Expense
+2022-03-31,Other,Other,297.05,Income
+2022-03-31,Clothing Store,Shopping,52.21,Expense
+2022-04-01,Pet Supplies,Investment,486.72,Income
+2022-04-01,Other,Other,52.87,Expense
+2022-04-01,Coffee Shop,Food & Drink,8.97,Expense
+2022-04-01,Other,Other,20.87,Income
+2022-04-02,Water Bill,Utilities,137.02,Expense
+2022-04-02,Target,Shopping,46.98,Expense
+2022-04-03,Salary Received,Salary,1172.23,Income
+2022-04-03,Amazon Purchase,Shopping,176.04,Expense
+2022-04-04,Internet Bill,Utilities,61.59,Expense
+2022-04-05,Electric Bill,Utilities,172.12,Expense
+2022-04-08,Internet Bill,Utilities,167.92,Expense
+2022-04-09,Thai Restaurant,Food & Drink,39.45,Expense
+2022-04-09,Salary Received,Salary,1172.23,Income
+2022-04-10,Target,Shopping,221.43,Expense
+2022-04-10,Office Supplies,Health & Fitness,49.38,Expense
+2022-04-16,Household Supplies,Investment,170.67,Income
+2022-04-18,Electronics Shop,Shopping,130.66,Expense
+2022-04-18,Pizza Place,Food & Drink,13.33,Expense
+2022-04-21,Household Supplies,Investment,220.57,Income
+2022-04-22,McDonald's,Food & Drink,16.76,Expense
+2022-04-22,Other,Other,401.13,Income
+2022-04-24,Pizza Place,Food & Drink,37.73,Expense
+2022-04-24,Arcade,Entertainment,48.23,Expense
+2022-04-29,Household Supplies,Health & Fitness,53.47,Expense
+2022-04-30,Household Supplies,Health & Fitness,77.21,Expense
+2022-05-02,Bowling Alley,Entertainment,90.36,Expense
+2022-05-02,Electric Bill,Utilities,99.59,Expense
+2022-05-03,Salary Received,Salary,1172.23,Income
+2022-05-05,Amazon Purchase,Shopping,67.23,Expense
+2022-05-05,Amazon Purchase,Shopping,161.15,Expense
+2022-05-06,Water Bill,Utilities,63.82,Expense
+2022-05-07,Concert Ticket,Entertainment,78.08,Expense
+2022-05-07,Salary Received,Salary,1172.23,Income
+2022-05-07,Amazon Purchase,Shopping,166.0,Expense
+2022-05-08,Pet Supplies,Investment,188.95,Income
+2022-05-08,Rent Paid,Rent,902.46,Expense
+2022-05-09,Rent Paid,Rent,902.46,Expense
+2022-05-09,Grocery Store,Food & Drink,18.87,Expense
+2022-05-11,Thai Restaurant,Food & Drink,14.28,Expense
+2022-05-13,Office Supplies,Investment,363.79,Income
+2022-05-13,Household Supplies,Health & Fitness,84.52,Expense
+2022-05-14,Bowling Alley,Entertainment,116.84,Expense
+2022-05-19,Rent Paid,Rent,902.46,Expense
+2022-05-19,Concert Ticket,Entertainment,107.55,Expense
+2022-05-20,Target,Shopping,115.85,Expense
+2022-05-20,Train Ticket,Travel,459.58,Expense
+2022-05-22,Household Supplies,Health & Fitness,79.07,Expense
+2022-05-23,Salary Received,Salary,1172.23,Income
+2022-05-24,Salary Received,Salary,1172.23,Income
+2022-05-24,Arcade,Entertainment,69.07,Expense
+2022-05-25,Concert Ticket,Entertainment,25.4,Expense
+2022-05-27,Other,Other,64.73,Expense
+2022-05-28,Other,Other,176.74,Income
+2022-05-29,Arcade,Entertainment,64.3,Expense
+2022-05-29,Office Supplies,Health & Fitness,29.95,Expense
+2022-05-30,Salary Received,Salary,1172.23,Income
+2022-05-30,Office Supplies,Health & Fitness,97.97,Expense
+2022-05-31,Salary Received,Salary,1172.23,Income
+2022-06-01,McDonald's,Food & Drink,30.88,Expense
+2022-06-01,Rent Paid,Rent,923.52,Expense
+2022-06-04,Thai Restaurant,Food & Drink,11.27,Expense
+2022-06-04,Concert Ticket,Entertainment,19.94,Expense
+2022-06-06,Pet Supplies,Investment,396.12,Income
+2022-06-07,McDonald's,Food & Drink,37.95,Expense
+2022-06-07,Salary Received,Salary,1172.23,Income
+2022-06-11,Other,Other,62.49,Expense
+2022-06-11,Other,Other,15.75,Expense
+2022-06-12,Coffee Shop,Food & Drink,15.14,Expense
+2022-06-12,Online Retail Order,Shopping,40.67,Expense
+2022-06-12,Rent Paid,Rent,923.52,Expense
+2022-06-13,Bowling Alley,Entertainment,87.85,Expense
+2022-06-17,Office Supplies,Health & Fitness,65.1,Expense
+2022-06-17,Household Supplies,Health & Fitness,74.65,Expense
+2022-06-18,Streaming Subscription,Entertainment,65.2,Expense
+2022-06-19,Rent Paid,Rent,923.52,Expense
+2022-06-20,Coffee Shop,Food & Drink,33.34,Expense
+2022-06-21,Salary Received,Salary,1172.23,Income
+2022-06-21,Household Supplies,Investment,405.06,Income
+2022-06-23,Electronics Shop,Shopping,169.57,Expense
+2022-06-23,Rent Paid,Rent,923.52,Expense
+2022-06-25,Streaming Subscription,Entertainment,85.34,Expense
+2022-06-25,Salary Received,Salary,1172.23,Income
+2022-06-26,Car Rental,Travel,447.22,Expense
+2022-06-26,Thai Restaurant,Food & Drink,25.24,Expense
+2022-06-30,Coffee Shop,Food & Drink,17.59,Expense
+2022-07-01,Clothing Store,Shopping,108.12,Expense
+2022-07-02,Movie Theater,Entertainment,12.46,Expense
+2022-07-04,Pet Supplies,Health & Fitness,9.28,Expense
+2022-07-04,Rent Paid,Rent,923.52,Expense
+2022-07-04,Grocery Store,Food & Drink,21.27,Expense
+2022-07-05,Rent Paid,Rent,923.52,Expense
+2022-07-06,Clothing Store,Shopping,203.46,Expense
+2022-07-13,Train Ticket,Travel,430.19,Expense
+2022-07-17,Arcade,Entertainment,52.34,Expense
+2022-07-17,Target,Shopping,127.69,Expense
+2022-07-17,Online Retail Order,Shopping,211.96,Expense
+2022-07-18,Arcade,Entertainment,96.65,Expense
+2022-07-18,Office Supplies,Investment,427.55,Income
+2022-07-19,Phone Bill,Utilities,177.09,Expense
+2022-07-20,Rent Paid,Rent,923.52,Expense
+2022-07-22,Salary Received,Salary,1172.23,Income
+2022-07-25,Phone Bill,Utilities,127.22,Expense
+2022-07-27,Online Retail Order,Shopping,242.92,Expense
+2022-07-27,Household Supplies,Investment,392.41,Income
+2022-07-27,Pizza Place,Food & Drink,8.36,Expense
+2022-07-27,Rent Paid,Rent,923.52,Expense
+2022-07-28,Bowling Alley,Entertainment,34.39,Expense
+2022-07-28,Other,Other,109.04,Expense
+2022-07-29,Other,Other,118.82,Expense
+2022-07-30,Rent Paid,Rent,923.52,Expense
+2022-07-31,Hotel Stay,Travel,216.72,Expense
+2022-08-02,Other,Other,11.75,Expense
+2022-08-02,Salary Received,Salary,1195.68,Income
+2022-08-03,Pet Supplies,Investment,363.66,Income
+2022-08-04,Amazon Purchase,Shopping,97.12,Expense
+2022-08-06,Household Supplies,Health & Fitness,24.39,Expense
+2022-08-07,Internet Bill,Utilities,70.06,Expense
+2022-08-12,Streaming Subscription,Entertainment,12.72,Expense
+2022-08-13,Other,Other,191.95,Income
+2022-08-15,Salary Received,Salary,1195.68,Income
+2022-08-15,Pet Supplies,Health & Fitness,115.46,Expense
+2022-08-16,Target,Shopping,238.53,Expense
+2022-08-16,Streaming Subscription,Entertainment,37.99,Expense
+2022-08-17,Coffee Shop,Food & Drink,29.47,Expense
+2022-08-18,Bowling Alley,Entertainment,15.11,Expense
+2022-08-19,Rent Paid,Rent,923.52,Expense
+2022-08-21,Target,Shopping,97.15,Expense
+2022-08-21,Other,Other,370.43,Income
+2022-08-22,Phone Bill,Utilities,134.68,Expense
+2022-08-22,Rent Paid,Rent,923.52,Expense
+2022-08-23,Amazon Purchase,Shopping,68.5,Expense
+2022-08-24,Target,Shopping,94.7,Expense
+2022-08-26,Office Supplies,Health & Fitness,20.08,Expense
+2022-08-26,Rent Paid,Rent,923.52,Expense
+2022-08-28,Household Supplies,Health & Fitness,22.4,Expense
+2022-08-29,Clothing Store,Shopping,16.46,Expense
+2022-08-30,Target,Shopping,94.58,Expense
+2022-08-31,Office Supplies,Investment,222.85,Income
+2022-08-31,Arcade,Entertainment,41.34,Expense
+2022-09-01,Phone Bill,Utilities,114.44,Expense
+2022-09-02,Household Supplies,Investment,214.77,Income
+2022-09-03,Rent Paid,Rent,923.52,Expense
+2022-09-03,Internet Bill,Utilities,125.81,Expense
+2022-09-03,Concert Ticket,Entertainment,94.05,Expense
+2022-09-04,Rent Paid,Rent,923.52,Expense
+2022-09-04,Household Supplies,Health & Fitness,119.16,Expense
+2022-09-05,Pet Supplies,Investment,471.29,Income
+2022-09-06,Rent Paid,Rent,923.52,Expense
+2022-09-07,Office Supplies,Investment,86.81,Income
+2022-09-08,Household Supplies,Investment,127.65,Income
+2022-09-10,Salary Received,Salary,1195.68,Income
+2022-09-11,Phone Bill,Utilities,151.03,Expense
+2022-09-11,Online Retail Order,Shopping,187.76,Expense
+2022-09-12,Concert Ticket,Entertainment,117.08,Expense
+2022-09-14,Coffee Shop,Food & Drink,7.08,Expense
+2022-09-15,Rent Paid,Rent,923.52,Expense
+2022-09-15,Internet Bill,Utilities,100.62,Expense
+2022-09-17,Pet Supplies,Investment,334.73,Income
+2022-09-18,Salary Received,Salary,1195.68,Income
+2022-09-19,Online Retail Order,Shopping,139.74,Expense
+2022-09-19,Pet Supplies,Health & Fitness,70.57,Expense
+2022-09-21,Water Bill,Utilities,59.89,Expense
+2022-09-23,Airline Ticket,Travel,565.86,Expense
+2022-09-26,Phone Bill,Utilities,85.5,Expense
+2022-09-26,Rent Paid,Rent,923.52,Expense
+2022-09-28,Online Retail Order,Shopping,107.41,Expense
+2022-09-29,Other,Other,170.83,Income
+2022-09-29,Office Supplies,Investment,165.61,Income
+2022-09-30,Phone Bill,Utilities,93.02,Expense
+2022-10-01,Grocery Store,Food & Drink,14.12,Expense
+2022-10-02,Salary Received,Salary,1195.68,Income
+2022-10-03,Salary Received,Salary,1195.68,Income
+2022-10-04,Salary Received,Salary,1195.68,Income
+2022-10-04,Household Supplies,Investment,419.88,Income
+2022-10-05,Uber Ride,Travel,509.33,Expense
+2022-10-08,Salary Received,Salary,1195.68,Income
+2022-10-10,Salary Received,Salary,1195.68,Income
+2022-10-12,Office Supplies,Investment,285.3,Income
+2022-10-12,Office Supplies,Health & Fitness,74.26,Expense
+2022-10-13,Salary Received,Salary,1195.68,Income
+2022-10-19,Rent Paid,Rent,923.52,Expense
+2022-10-19,Concert Ticket,Entertainment,65.47,Expense
+2022-10-20,Salary Received,Salary,1195.68,Income
+2022-10-21,Rent Paid,Rent,923.52,Expense
+2022-10-22,Movie Theater,Entertainment,17.81,Expense
+2022-10-23,Office Supplies,Health & Fitness,16.73,Expense
+2022-10-25,Target,Shopping,127.49,Expense
+2022-10-28,Household Supplies,Investment,82.26,Income
+2022-10-30,Household Supplies,Health & Fitness,76.96,Expense
+2022-10-31,Phone Bill,Utilities,172.38,Expense
+2022-11-03,Train Ticket,Travel,40.16,Expense
+2022-11-04,Rent Paid,Rent,923.52,Expense
+2022-11-05,Clothing Store,Shopping,156.54,Expense
+2022-11-07,Electric Bill,Utilities,103.35,Expense
+2022-11-07,Pet Supplies,Investment,394.58,Income
+2022-11-09,Clothing Store,Shopping,180.6,Expense
+2022-11-10,Uber Ride,Travel,561.92,Expense
+2022-11-13,Rent Paid,Rent,923.52,Expense
+2022-11-14,Rent Paid,Rent,923.52,Expense
+2022-11-14,Office Supplies,Health & Fitness,81.35,Expense
+2022-11-15,Coffee Shop,Food & Drink,30.04,Expense
+2022-11-17,Rent Paid,Rent,923.52,Expense
+2022-11-17,Household Supplies,Health & Fitness,46.41,Expense
+2022-11-18,Target,Shopping,151.09,Expense
+2022-11-19,Bowling Alley,Entertainment,78.25,Expense
+2022-11-21,Hotel Stay,Travel,87.57,Expense
+2022-11-22,Salary Received,Salary,1195.68,Income
+2022-11-26,McDonald's,Food & Drink,11.97,Expense
+2022-11-26,Salary Received,Salary,1195.68,Income
+2022-11-28,Electric Bill,Utilities,73.05,Expense
+2022-11-28,Other,Other,292.18,Income
+2022-12-01,Internet Bill,Utilities,125.38,Expense
+2022-12-03,Train Ticket,Travel,334.87,Expense
+2022-12-04,Rent Paid,Rent,923.52,Expense
+2022-12-05,Internet Bill,Utilities,85.18,Expense
+2022-12-05,Concert Ticket,Entertainment,96.88,Expense
+2022-12-07,Household Supplies,Investment,86.87,Income
+2022-12-12,Rent Paid,Rent,923.52,Expense
+2022-12-13,Salary Received,Salary,1195.68,Income
+2022-12-15,Rent Paid,Rent,923.52,Expense
+2022-12-16,Water Bill,Utilities,150.57,Expense
+2022-12-18,Rent Paid,Rent,923.52,Expense
+2022-12-22,Other,Other,219.95,Income
+2022-12-28,Internet Bill,Utilities,83.34,Expense
+2022-12-30,Water Bill,Utilities,105.26,Expense
+2022-12-31,Rent Paid,Rent,923.52,Expense
+2023-01-03,Pet Supplies,Investment,213.57,Income
+2023-01-04,Bowling Alley,Entertainment,35.26,Expense
+2023-01-04,Other,Other,94.03,Expense
+2023-01-06,Rent Paid,Rent,923.52,Expense
+2023-01-09,Household Supplies,Investment,302.36,Income
+2023-01-10,Online Retail Order,Shopping,222.14,Expense
+2023-01-11,Other,Other,480.06,Income
+2023-01-13,Car Rental,Travel,111.67,Expense
+2023-01-15,Car Rental,Travel,353.32,Expense
+2023-01-16,Bowling Alley,Entertainment,61.93,Expense
+2023-01-17,Grocery Store,Food & Drink,21.67,Expense
+2023-01-18,Concert Ticket,Entertainment,93.1,Expense
+2023-01-19,Other,Other,446.43,Income
+2023-01-19,Thai Restaurant,Food & Drink,19.51,Expense
+2023-01-19,Phone Bill,Utilities,137.34,Expense
+2023-01-19,Clothing Store,Shopping,80.5,Expense
+2023-01-19,Salary Received,Salary,1195.68,Income
+2023-01-20,Local Burger Joint,Food & Drink,9.45,Expense
+2023-01-21,Household Supplies,Investment,272.41,Income
+2023-01-21,Electronics Shop,Shopping,73.22,Expense
+2023-01-22,Electronics Shop,Shopping,121.17,Expense
+2023-01-23,Phone Bill,Utilities,128.57,Expense
+2023-01-23,Streaming Subscription,Entertainment,37.16,Expense
+2023-01-23,Other,Other,318.05,Income
+2023-01-24,Rent Paid,Rent,923.52,Expense
+2023-01-24,Movie Theater,Entertainment,29.87,Expense
+2023-01-24,Other,Other,96.93,Income
+2023-01-24,Thai Restaurant,Food & Drink,39.67,Expense
+2023-01-24,Internet Bill,Utilities,65.82,Expense
+2023-01-24,Coffee Shop,Food & Drink,16.7,Expense
+2023-01-25,Train Ticket,Travel,251.04,Expense
+2023-01-26,Other,Other,113.91,Expense
+2023-01-27,Thai Restaurant,Food & Drink,35.14,Expense
+2023-01-27,Rent Paid,Rent,923.52,Expense
+2023-01-28,Rent Paid,Rent,923.52,Expense
+2023-01-29,McDonald's,Food & Drink,14.74,Expense
+2023-01-29,Office Supplies,Health & Fitness,30.49,Expense
+2023-01-30,Rent Paid,Rent,923.52,Expense
+2023-01-31,McDonald's,Food & Drink,9.43,Expense
+2023-01-31,Office Supplies,Investment,291.29,Income
+2023-02-01,Electric Bill,Utilities,53.2,Expense
+2023-02-02,McDonald's,Food & Drink,20.92,Expense
+2023-02-03,Target,Shopping,247.28,Expense
+2023-02-06,Office Supplies,Health & Fitness,111.15,Expense
+2023-02-07,Other,Other,7.72,Expense
+2023-02-07,Coffee Shop,Food & Drink,24.68,Expense
+2023-02-08,McDonald's,Food & Drink,13.23,Expense
+2023-02-08,Other,Other,39.24,Expense
+2023-02-09,Uber Ride,Travel,361.61,Expense
+2023-02-12,Local Burger Joint,Food & Drink,22.94,Expense
+2023-02-13,Airline Ticket,Travel,582.59,Expense
+2023-02-15,Office Supplies,Health & Fitness,6.73,Expense
+2023-02-16,Streaming Subscription,Entertainment,44.25,Expense
+2023-02-18,Streaming Subscription,Entertainment,54.35,Expense
+2023-02-20,Pizza Place,Food & Drink,30.56,Expense
+2023-02-20,McDonald's,Food & Drink,31.22,Expense
+2023-02-22,Other,Other,37.39,Expense
+2023-02-22,Pet Supplies,Investment,293.07,Income
+2023-02-24,Thai Restaurant,Food & Drink,24.31,Expense
+2023-02-26,Other,Other,342.48,Income
+2023-02-26,Household Supplies,Investment,437.06,Income
+2023-02-26,Household Supplies,Health & Fitness,54.09,Expense
+2023-02-28,Rent Paid,Rent,923.52,Expense
+2023-03-03,Amazon Purchase,Shopping,99.02,Expense
+2023-03-03,Electronics Shop,Shopping,201.85,Expense
+2023-03-05,Other,Other,61.05,Expense
+2023-03-05,Clothing Store,Shopping,185.31,Expense
+2023-03-05,Pet Supplies,Health & Fitness,41.63,Expense
+2023-03-07,Movie Theater,Entertainment,12.61,Expense
+2023-03-08,Rent Paid,Rent,923.52,Expense
+2023-03-08,Other,Other,64.59,Income
+2023-03-08,Office Supplies,Health & Fitness,5.96,Expense
+2023-03-08,Car Rental,Travel,513.48,Expense
+2023-03-10,Rent Paid,Rent,923.52,Expense
+2023-03-10,Pizza Place,Food & Drink,10.29,Expense
+2023-03-12,Phone Bill,Utilities,124.34,Expense
+2023-03-13,Office Supplies,Health & Fitness,72.93,Expense
+2023-03-13,Other,Other,26.17,Income
+2023-03-13,Internet Bill,Utilities,71.55,Expense
+2023-03-15,Salary Received,Salary,1219.59,Income
+2023-03-15,Rent Paid,Rent,923.52,Expense
+2023-03-16,Electric Bill,Utilities,102.38,Expense
+2023-03-16,Office Supplies,Investment,261.3,Income
+2023-03-18,Other,Other,310.07,Income
+2023-03-18,Rent Paid,Rent,923.52,Expense
+2023-03-21,Rent Paid,Rent,923.52,Expense
+2023-03-22,Other,Other,61.52,Expense
+2023-03-23,Other,Other,308.66,Income
+2023-03-23,Other,Other,290.73,Income
+2023-03-23,Other,Other,107.4,Expense
+2023-03-24,Electronics Shop,Shopping,216.4,Expense
+2023-03-27,Pet Supplies,Investment,61.55,Income
+2023-03-29,Salary Received,Salary,1219.59,Income
+2023-03-30,Pet Supplies,Investment,161.38,Income
+2023-03-31,Salary Received,Salary,1219.59,Income
+2023-03-31,Phone Bill,Utilities,150.3,Expense
+2023-04-01,Movie Theater,Entertainment,48.04,Expense
+2023-04-01,Local Burger Joint,Food & Drink,21.98,Expense
+2023-04-04,Household Supplies,Health & Fitness,86.26,Expense
+2023-04-07,Pet Supplies,Health & Fitness,78.05,Expense
+2023-04-08,Amazon Purchase,Shopping,189.71,Expense
+2023-04-09,Office Supplies,Investment,279.84,Income
+2023-04-10,Airline Ticket,Travel,177.84,Expense
+2023-04-10,Household Supplies,Health & Fitness,94.37,Expense
+2023-04-13,Electric Bill,Utilities,161.28,Expense
+2023-04-15,Train Ticket,Travel,195.24,Expense
+2023-04-16,McDonald's,Food & Drink,22.42,Expense
+2023-04-20,Electronics Shop,Shopping,39.58,Expense
+2023-04-20,Water Bill,Utilities,55.64,Expense
+2023-04-21,Household Supplies,Health & Fitness,21.63,Expense
+2023-04-22,Other,Other,460.83,Income
+2023-04-22,Arcade,Entertainment,79.29,Expense
+2023-04-23,Salary Received,Salary,1219.59,Income
+2023-04-24,Household Supplies,Investment,82.01,Income
+2023-04-25,Office Supplies,Investment,189.86,Income
+2023-05-02,Pizza Place,Food & Drink,36.27,Expense
+2023-05-02,Internet Bill,Utilities,179.95,Expense
+2023-05-03,Other,Other,26.65,Expense
+2023-05-05,Household Supplies,Investment,202.57,Income
+2023-05-05,Household Supplies,Health & Fitness,7.78,Expense
+2023-05-05,Clothing Store,Shopping,134.37,Expense
+2023-05-07,Pet Supplies,Health & Fitness,61.11,Expense
+2023-05-12,Other,Other,472.22,Income
+2023-05-14,Electric Bill,Utilities,40.49,Expense
+2023-05-14,Pet Supplies,Health & Fitness,104.9,Expense
+2023-05-14,Phone Bill,Utilities,60.47,Expense
+2023-05-15,Uber Ride,Travel,383.66,Expense
+2023-05-15,Online Retail Order,Shopping,76.69,Expense
+2023-05-16,Local Burger Joint,Food & Drink,19.5,Expense
+2023-05-17,Movie Theater,Entertainment,61.69,Expense
+2023-05-18,Other,Other,398.11,Income
+2023-05-19,Rent Paid,Rent,923.52,Expense
+2023-05-20,Internet Bill,Utilities,122.27,Expense
+2023-05-20,Household Supplies,Health & Fitness,64.74,Expense
+2023-05-20,Streaming Subscription,Entertainment,50.09,Expense
+2023-05-22,Rent Paid,Rent,923.52,Expense
+2023-05-22,Other,Other,326.73,Income
+2023-05-22,Online Retail Order,Shopping,24.51,Expense
+2023-05-25,Electronics Shop,Shopping,44.75,Expense
+2023-05-28,Arcade,Entertainment,78.64,Expense
+2023-05-29,Household Supplies,Investment,340.77,Income
+2023-05-29,Other,Other,80.85,Expense
+2023-05-30,Pet Supplies,Investment,139.9,Income
+2023-06-02,Household Supplies,Investment,411.02,Income
+2023-06-03,Rent Paid,Rent,923.52,Expense
+2023-06-04,Salary Received,Salary,1219.59,Income
+2023-06-05,Water Bill,Utilities,146.37,Expense
+2023-06-08,Thai Restaurant,Food & Drink,31.31,Expense
+2023-06-08,Streaming Subscription,Entertainment,116.91,Expense
+2023-06-09,Car Rental,Travel,551.19,Expense
+2023-06-09,Rent Paid,Rent,923.52,Expense
+2023-06-10,Salary Received,Salary,1219.59,Income
+2023-06-10,Amazon Purchase,Shopping,166.36,Expense
+2023-06-13,Salary Received,Salary,1219.59,Income
+2023-06-15,Pet Supplies,Investment,412.47,Income
+2023-06-16,Salary Received,Salary,1219.59,Income
+2023-06-16,Electronics Shop,Shopping,144.17,Expense
+2023-06-17,Airline Ticket,Travel,465.22,Expense
+2023-06-17,Water Bill,Utilities,65.22,Expense
+2023-06-19,Internet Bill,Utilities,111.82,Expense
+2023-06-21,Salary Received,Salary,1219.59,Income
+2023-06-22,Grocery Store,Food & Drink,21.93,Expense
+2023-06-22,Rent Paid,Rent,923.52,Expense
+2023-06-23,Electronics Shop,Shopping,128.89,Expense
+2023-06-25,Thai Restaurant,Food & Drink,23.18,Expense
+2023-06-25,Target,Shopping,159.29,Expense
+2023-06-25,Salary Received,Salary,1219.59,Income
+2023-06-26,Hotel Stay,Travel,371.14,Expense
+2023-06-30,Thai Restaurant,Food & Drink,38.34,Expense
+2023-07-01,Water Bill,Utilities,70.74,Expense
+2023-07-02,Phone Bill,Utilities,60.15,Expense
+2023-07-05,Pet Supplies,Investment,136.87,Income
+2023-07-05,Other,Other,282.11,Income
+2023-07-06,Clothing Store,Shopping,80.92,Expense
+2023-07-07,Phone Bill,Utilities,65.12,Expense
+2023-07-07,Rent Paid,Rent,927.7,Expense
+2023-07-10,Household Supplies,Health & Fitness,59.92,Expense
+2023-07-10,Coffee Shop,Food & Drink,19.33,Expense
+2023-07-10,Electronics Shop,Shopping,244.16,Expense
+2023-07-10,Household Supplies,Investment,300.74,Income
+2023-07-11,Rent Paid,Rent,927.7,Expense
+2023-07-13,Household Supplies,Health & Fitness,71.39,Expense
+2023-07-15,Salary Received,Salary,1219.59,Income
+2023-07-15,Internet Bill,Utilities,79.9,Expense
+2023-07-15,Other,Other,460.29,Income
+2023-07-15,Office Supplies,Health & Fitness,107.03,Expense
+2023-07-15,Other,Other,131.97,Income
+2023-07-16,Grocery Store,Food & Drink,9.07,Expense
+2023-07-17,Car Rental,Travel,446.62,Expense
+2023-07-18,Rent Paid,Rent,927.7,Expense
+2023-07-19,Car Rental,Travel,91.93,Expense
+2023-07-19,Office Supplies,Health & Fitness,62.31,Expense
+2023-07-20,Rent Paid,Rent,927.7,Expense
+2023-07-21,Clothing Store,Shopping,65.85,Expense
+2023-07-23,Office Supplies,Health & Fitness,68.69,Expense
+2023-07-25,Electric Bill,Utilities,67.48,Expense
+2023-07-26,Electronics Shop,Shopping,133.17,Expense
+2023-07-27,Coffee Shop,Food & Drink,6.09,Expense
+2023-07-27,Movie Theater,Entertainment,37.14,Expense
+2023-07-30,Salary Received,Salary,1219.59,Income
+2023-08-01,Streaming Subscription,Entertainment,90.89,Expense
+2023-08-04,Clothing Store,Shopping,137.13,Expense
+2023-08-05,Pet Supplies,Investment,325.51,Income
+2023-08-07,Salary Received,Salary,1219.59,Income
+2023-08-07,Household Supplies,Health & Fitness,65.4,Expense
+2023-08-09,Train Ticket,Travel,172.58,Expense
+2023-08-09,Hotel Stay,Travel,536.18,Expense
+2023-08-10,Pet Supplies,Investment,28.75,Income
+2023-08-10,Streaming Subscription,Entertainment,30.85,Expense
+2023-08-11,Grocery Store,Food & Drink,19.32,Expense
+2023-08-16,Coffee Shop,Food & Drink,5.34,Expense
+2023-08-17,Household Supplies,Investment,477.57,Income
+2023-08-17,Uber Ride,Travel,344.63,Expense
+2023-08-21,Uber Ride,Travel,140.1,Expense
+2023-08-22,Household Supplies,Health & Fitness,12.38,Expense
+2023-08-23,Hotel Stay,Travel,333.53,Expense
+2023-08-25,Electronics Shop,Shopping,176.08,Expense
+2023-08-27,Other,Other,73.92,Expense
+2023-08-30,Rent Paid,Rent,927.7,Expense
+2023-08-30,Hotel Stay,Travel,392.1,Expense
+2023-08-30,Hotel Stay,Travel,349.14,Expense
+2023-08-30,Uber Ride,Travel,233.38,Expense
+2023-09-01,Streaming Subscription,Entertainment,52.72,Expense
+2023-09-01,Target,Shopping,217.66,Expense
+2023-09-03,Pizza Place,Food & Drink,6.69,Expense
+2023-09-04,Train Ticket,Travel,193.32,Expense
+2023-09-04,Pizza Place,Food & Drink,15.05,Expense
+2023-09-04,Movie Theater,Entertainment,117.95,Expense
+2023-09-07,Salary Received,Salary,1219.59,Income
+2023-09-10,Uber Ride,Travel,311.03,Expense
+2023-09-11,Water Bill,Utilities,65.37,Expense
+2023-09-11,Hotel Stay,Travel,511.82,Expense
+2023-09-12,Phone Bill,Utilities,92.32,Expense
+2023-09-12,Rent Paid,Rent,927.7,Expense
+2023-09-13,Train Ticket,Travel,243.32,Expense
+2023-09-14,Pet Supplies,Health & Fitness,43.77,Expense
+2023-09-14,Rent Paid,Rent,927.7,Expense
+2023-09-14,Rent Paid,Rent,927.7,Expense
+2023-09-15,Office Supplies,Investment,234.38,Income
+2023-09-15,Electronics Shop,Shopping,144.06,Expense
+2023-09-16,Water Bill,Utilities,103.4,Expense
+2023-09-16,Salary Received,Salary,1219.59,Income
+2023-09-21,Water Bill,Utilities,93.38,Expense
+2023-09-21,Electric Bill,Utilities,72.16,Expense
+2023-09-23,Other,Other,98.64,Expense
+2023-09-24,Phone Bill,Utilities,160.22,Expense
+2023-09-28,Pet Supplies,Investment,290.1,Income
+2023-09-29,Electronics Shop,Shopping,181.89,Expense
+2023-10-03,Online Retail Order,Shopping,229.08,Expense
+2023-10-04,Pet Supplies,Health & Fitness,23.45,Expense
+2023-10-04,Movie Theater,Entertainment,24.01,Expense
+2023-10-05,Household Supplies,Investment,303.86,Income
+2023-10-06,Office Supplies,Health & Fitness,13.43,Expense
+2023-10-08,Other,Other,20.5,Expense
+2023-10-08,Household Supplies,Investment,43.95,Income
+2023-10-08,Salary Received,Salary,1243.98,Income
+2023-10-09,Household Supplies,Health & Fitness,7.95,Expense
+2023-10-09,Electric Bill,Utilities,175.28,Expense
+2023-10-11,Office Supplies,Health & Fitness,45.63,Expense
+2023-10-13,Other,Other,315.44,Income
+2023-10-14,Internet Bill,Utilities,118.31,Expense
+2023-10-14,Household Supplies,Investment,330.66,Income
+2023-10-15,Grocery Store,Food & Drink,37.98,Expense
+2023-10-15,Grocery Store,Food & Drink,24.5,Expense
+2023-10-16,Office Supplies,Investment,39.43,Income
+2023-10-17,Office Supplies,Investment,221.85,Income
+2023-10-17,Rent Paid,Rent,927.7,Expense
+2023-10-27,Phone Bill,Utilities,173.75,Expense
+2023-10-27,Coffee Shop,Food & Drink,25.48,Expense
+2023-10-29,Train Ticket,Travel,387.74,Expense
+2023-10-30,Online Retail Order,Shopping,165.73,Expense
+2023-10-30,Household Supplies,Investment,206.24,Income
+2023-11-04,Household Supplies,Investment,347.78,Income
+2023-11-05,Office Supplies,Investment,107.62,Income
+2023-11-08,Movie Theater,Entertainment,108.92,Expense
+2023-11-08,Internet Bill,Utilities,135.59,Expense
+2023-11-08,Concert Ticket,Entertainment,105.84,Expense
+2023-11-09,Streaming Subscription,Entertainment,50.4,Expense
+2023-11-09,Rent Paid,Rent,927.7,Expense
+2023-11-11,Water Bill,Utilities,120.62,Expense
+2023-11-11,Rent Paid,Rent,927.7,Expense
+2023-11-13,Other,Other,51.33,Expense
+2023-11-14,Train Ticket,Travel,370.5,Expense
+2023-11-14,Pet Supplies,Investment,441.17,Income
+2023-11-15,Office Supplies,Health & Fitness,34.93,Expense
+2023-11-17,Rent Paid,Rent,927.7,Expense
+2023-11-18,McDonald's,Food & Drink,38.9,Expense
+2023-11-21,Pet Supplies,Investment,312.64,Income
+2023-11-21,Salary Received,Salary,1243.98,Income
+2023-11-22,Rent Paid,Rent,927.7,Expense
+2023-11-23,Rent Paid,Rent,927.7,Expense
+2023-11-23,Hotel Stay,Travel,596.07,Expense
+2023-11-26,Salary Received,Salary,1243.98,Income
+2023-11-26,Water Bill,Utilities,97.01,Expense
+2023-11-26,Local Burger Joint,Food & Drink,27.47,Expense
+2023-11-26,Rent Paid,Rent,927.7,Expense
+2023-11-27,Salary Received,Salary,1243.98,Income
+2023-11-27,Office Supplies,Health & Fitness,118.66,Expense
+2023-11-28,Internet Bill,Utilities,128.1,Expense
+2023-11-28,Electronics Shop,Shopping,169.54,Expense
+2023-11-29,Other,Other,93.09,Expense
+2023-12-05,Bowling Alley,Entertainment,96.7,Expense
+2023-12-05,Pet Supplies,Health & Fitness,95.61,Expense
+2023-12-06,Rent Paid,Rent,927.7,Expense
+2023-12-08,Salary Received,Salary,1243.98,Income
+2023-12-09,Target,Shopping,237.78,Expense
+2023-12-09,Coffee Shop,Food & Drink,27.71,Expense
+2023-12-10,Salary Received,Salary,1243.98,Income
+2023-12-11,Rent Paid,Rent,927.7,Expense
+2023-12-13,Office Supplies,Health & Fitness,33.87,Expense
+2023-12-14,Household Supplies,Investment,58.26,Income
+2023-12-14,Bowling Alley,Entertainment,115.85,Expense
+2023-12-18,Salary Received,Salary,1243.98,Income
+2023-12-20,Pet Supplies,Health & Fitness,99.68,Expense
+2023-12-21,Thai Restaurant,Food & Drink,25.77,Expense
+2023-12-22,Pizza Place,Food & Drink,36.5,Expense
+2023-12-23,Airline Ticket,Travel,524.68,Expense
+2023-12-25,Salary Received,Salary,1243.98,Income
+2023-12-26,Thai Restaurant,Food & Drink,17.59,Expense
+2023-12-27,Household Supplies,Health & Fitness,98.09,Expense
+2023-12-29,Salary Received,Salary,1243.98,Income
+2023-12-29,Salary Received,Salary,1243.98,Income
+2023-12-29,Movie Theater,Entertainment,31.9,Expense
+2024-01-02,Airline Ticket,Travel,590.63,Expense
+2024-01-02,Rent Paid,Rent,927.7,Expense
+2024-01-04,Pet Supplies,Investment,154.2,Income
+2024-01-04,Office Supplies,Investment,286.57,Income
+2024-01-07,Other,Other,12.79,Expense
+2024-01-09,Bowling Alley,Entertainment,109.15,Expense
+2024-01-09,Other,Other,311.27,Income
+2024-01-10,Rent Paid,Rent,927.7,Expense
+2024-01-11,Phone Bill,Utilities,117.6,Expense
+2024-01-11,Household Supplies,Investment,45.6,Income
+2024-01-11,Salary Received,Salary,1243.98,Income
+2024-01-12,Water Bill,Utilities,112.56,Expense
+2024-01-13,Pet Supplies,Investment,300.01,Income
+2024-01-14,Household Supplies,Health & Fitness,90.84,Expense
+2024-01-15,Arcade,Entertainment,102.04,Expense
+2024-01-16,Hotel Stay,Travel,96.29,Expense
+2024-01-16,Other,Other,431.4,Income
+2024-01-16,Household Supplies,Health & Fitness,54.33,Expense
+2024-01-17,Bowling Alley,Entertainment,10.42,Expense
+2024-01-19,Airline Ticket,Travel,262.92,Expense
+2024-01-19,Phone Bill,Utilities,160.18,Expense
+2024-01-19,Electric Bill,Utilities,150.25,Expense
+2024-01-19,Office Supplies,Health & Fitness,43.47,Expense
+2024-01-20,Salary Received,Salary,1243.98,Income
+2024-01-22,Clothing Store,Shopping,182.53,Expense
+2024-01-23,Car Rental,Travel,433.27,Expense
+2024-01-24,Local Burger Joint,Food & Drink,22.2,Expense
+2024-01-25,Pet Supplies,Investment,464.56,Income
+2024-01-26,Concert Ticket,Entertainment,72.98,Expense
+2024-01-26,Uber Ride,Travel,123.48,Expense
+2024-01-26,Pet Supplies,Investment,390.1,Income
+2024-01-27,Thai Restaurant,Food & Drink,8.9,Expense
+2024-01-28,Arcade,Entertainment,56.75,Expense
+2024-01-30,Arcade,Entertainment,114.46,Expense
+2024-02-01,Uber Ride,Travel,360.68,Expense
+2024-02-06,Other,Other,321.61,Income
+2024-02-07,Household Supplies,Health & Fitness,95.26,Expense
+2024-02-07,Other,Other,41.95,Expense
+2024-02-10,Salary Received,Salary,1243.98,Income
+2024-02-10,Office Supplies,Health & Fitness,22.42,Expense
+2024-02-10,Streaming Subscription,Entertainment,39.38,Expense
+2024-02-14,Car Rental,Travel,578.62,Expense
+2024-02-14,Rent Paid,Rent,927.7,Expense
+2024-02-15,Household Supplies,Investment,449.17,Income
+2024-02-16,Other,Other,334.78,Income
+2024-02-17,Other,Other,182.31,Income
+2024-02-19,Internet Bill,Utilities,48.9,Expense
+2024-02-21,Grocery Store,Food & Drink,25.8,Expense
+2024-02-21,Hotel Stay,Travel,28.0,Expense
+2024-02-21,Household Supplies,Health & Fitness,108.77,Expense
+2024-02-22,Bowling Alley,Entertainment,68.82,Expense
+2024-02-23,Electric Bill,Utilities,115.23,Expense
+2024-02-23,Rent Paid,Rent,927.7,Expense
+2024-02-24,Household Supplies,Health & Fitness,49.68,Expense
+2024-02-24,Salary Received,Salary,1243.98,Income
+2024-02-25,McDonald's,Food & Drink,29.4,Expense
+2024-02-27,Streaming Subscription,Entertainment,83.39,Expense
+2024-02-27,Arcade,Entertainment,76.18,Expense
+2024-02-27,Household Supplies,Health & Fitness,58.07,Expense
+2024-02-28,Rent Paid,Rent,927.7,Expense
+2024-02-29,Uber Ride,Travel,129.91,Expense
+2024-03-02,Office Supplies,Health & Fitness,71.64,Expense
+2024-03-03,Salary Received,Salary,1243.98,Income
+2024-03-05,Bowling Alley,Entertainment,113.3,Expense
+2024-03-05,Pet Supplies,Investment,241.03,Income
+2024-03-06,McDonald's,Food & Drink,7.01,Expense
+2024-03-06,Movie Theater,Entertainment,19.38,Expense
+2024-03-06,Rent Paid,Rent,927.7,Expense
+2024-03-07,Online Retail Order,Shopping,61.87,Expense
+2024-03-07,Internet Bill,Utilities,128.22,Expense
+2024-03-08,Coffee Shop,Food & Drink,14.54,Expense
+2024-03-11,Other,Other,340.92,Income
+2024-03-13,Arcade,Entertainment,114.48,Expense
+2024-03-15,Salary Received,Salary,1243.98,Income
+2024-03-16,Grocery Store,Food & Drink,19.57,Expense
+2024-03-18,Pet Supplies,Investment,291.44,Income
+2024-03-26,Pizza Place,Food & Drink,22.4,Expense
+2024-03-27,Household Supplies,Investment,234.15,Income
+2024-03-28,Hotel Stay,Travel,597.69,Expense
+2024-03-29,Salary Received,Salary,1243.98,Income
+2024-03-30,Thai Restaurant,Food & Drink,8.22,Expense
+2024-03-30,Internet Bill,Utilities,175.26,Expense
+2024-04-03,Uber Ride,Travel,166.99,Expense
+2024-04-04,Other,Other,19.76,Expense
+2024-04-06,Phone Bill,Utilities,151.73,Expense
+2024-04-07,Other,Other,154.4,Income
+2024-04-08,Rent Paid,Rent,927.7,Expense
+2024-04-09,Pet Supplies,Health & Fitness,31.56,Expense
+2024-04-09,Internet Bill,Utilities,94.8,Expense
+2024-04-10,Hotel Stay,Travel,433.26,Expense
+2024-04-10,Pet Supplies,Investment,229.43,Income
+2024-04-11,Rent Paid,Rent,927.7,Expense
+2024-04-13,Pet Supplies,Investment,186.78,Income
+2024-04-16,Salary Received,Salary,1268.86,Income
+2024-04-17,Arcade,Entertainment,33.04,Expense
+2024-04-17,Arcade,Entertainment,113.44,Expense
+2024-04-17,Car Rental,Travel,564.65,Expense
+2024-04-18,Other,Other,8.76,Expense
+2024-04-20,Water Bill,Utilities,176.64,Expense
+2024-04-21,Streaming Subscription,Entertainment,117.6,Expense
+2024-04-22,Train Ticket,Travel,543.7,Expense
+2024-04-23,Other,Other,14.65,Expense
+2024-04-25,Office Supplies,Health & Fitness,69.48,Expense
+2024-04-26,Rent Paid,Rent,927.7,Expense
+2024-04-26,Train Ticket,Travel,199.33,Expense
+2024-04-30,Household Supplies,Investment,160.46,Income
+2024-05-02,Rent Paid,Rent,927.7,Expense
+2024-05-03,Grocery Store,Food & Drink,16.12,Expense
+2024-05-04,Bowling Alley,Entertainment,94.3,Expense
+2024-05-04,Salary Received,Salary,1268.86,Income
+2024-05-05,Other,Other,68.8,Expense
+2024-05-05,Airline Ticket,Travel,565.07,Expense
+2024-05-14,Rent Paid,Rent,927.7,Expense
+2024-05-15,Concert Ticket,Entertainment,72.7,Expense
+2024-05-17,Water Bill,Utilities,139.86,Expense
+2024-05-20,Pet Supplies,Investment,449.61,Income
+2024-05-22,Phone Bill,Utilities,114.28,Expense
+2024-05-23,Office Supplies,Health & Fitness,81.16,Expense
+2024-05-25,Streaming Subscription,Entertainment,105.04,Expense
+2024-05-26,Pizza Place,Food & Drink,16.07,Expense
+2024-05-27,Household Supplies,Health & Fitness,26.63,Expense
+2024-05-27,Local Burger Joint,Food & Drink,24.5,Expense
+2024-05-31,Rent Paid,Rent,927.7,Expense
+2024-06-01,Uber Ride,Travel,494.17,Expense
+2024-06-02,Internet Bill,Utilities,160.16,Expense
+2024-06-02,Rent Paid,Rent,927.7,Expense
+2024-06-03,Concert Ticket,Entertainment,15.52,Expense
+2024-06-04,Household Supplies,Health & Fitness,96.15,Expense
+2024-06-06,Local Burger Joint,Food & Drink,14.63,Expense
+2024-06-07,Household Supplies,Investment,162.48,Income
+2024-06-09,Other,Other,131.22,Income
+2024-06-10,Household Supplies,Investment,199.24,Income
+2024-06-12,Rent Paid,Rent,927.7,Expense
+2024-06-13,Household Supplies,Health & Fitness,60.76,Expense
+2024-06-13,Salary Received,Salary,1268.86,Income
+2024-06-14,Target,Shopping,231.88,Expense
+2024-06-15,Pet Supplies,Investment,381.08,Income
+2024-06-16,McDonald's,Food & Drink,8.43,Expense
+2024-06-17,Household Supplies,Investment,178.74,Income
+2024-06-21,Online Retail Order,Shopping,244.81,Expense
+2024-06-21,Grocery Store,Food & Drink,37.02,Expense
+2024-06-22,Airline Ticket,Travel,550.04,Expense
+2024-06-23,Salary Received,Salary,1268.86,Income
+2024-06-23,Other,Other,64.35,Expense
+2024-06-23,Water Bill,Utilities,157.37,Expense
+2024-06-23,Water Bill,Utilities,144.9,Expense
+2024-06-23,Salary Received,Salary,1268.86,Income
+2024-07-01,Other,Other,80.85,Expense
+2024-07-05,Office Supplies,Investment,272.93,Income
+2024-07-06,Electronics Shop,Shopping,151.84,Expense
+2024-07-07,Electric Bill,Utilities,107.24,Expense
+2024-07-07,Pizza Place,Food & Drink,22.71,Expense
+2024-07-07,Rent Paid,Rent,923.99,Expense
+2024-07-07,Grocery Store,Food & Drink,10.64,Expense
+2024-07-13,Target,Shopping,72.16,Expense
+2024-07-13,Coffee Shop,Food & Drink,13.2,Expense
+2024-07-16,Salary Received,Salary,1268.86,Income
+2024-07-20,Rent Paid,Rent,923.99,Expense
+2024-07-21,Streaming Subscription,Entertainment,47.5,Expense
+2024-07-22,Other,Other,106.34,Expense
+2024-07-23,Household Supplies,Investment,232.79,Income
+2024-07-23,Office Supplies,Investment,98.74,Income
+2024-07-25,Pet Supplies,Health & Fitness,54.77,Expense
+2024-07-26,Other,Other,190.43,Income
+2024-07-26,Clothing Store,Shopping,73.84,Expense
+2024-07-26,Amazon Purchase,Shopping,242.79,Expense
+2024-07-26,Salary Received,Salary,1268.86,Income
+2024-07-27,Salary Received,Salary,1268.86,Income
+2024-07-27,Pet Supplies,Health & Fitness,63.17,Expense
+2024-07-27,Internet Bill,Utilities,123.66,Expense
+2024-07-28,Bowling Alley,Entertainment,115.71,Expense
+2024-07-28,Internet Bill,Utilities,136.35,Expense
+2024-07-29,Household Supplies,Health & Fitness,63.9,Expense
+2024-07-29,McDonald's,Food & Drink,17.77,Expense
+2024-07-29,Grocery Store,Food & Drink,32.11,Expense
+2024-07-30,Salary Received,Salary,1268.86,Income
+2024-07-30,Rent Paid,Rent,923.99,Expense
+2024-08-01,Local Burger Joint,Food & Drink,19.31,Expense
+2024-08-02,Amazon Purchase,Shopping,192.89,Expense
+2024-08-02,Grocery Store,Food & Drink,12.02,Expense
+2024-08-03,Salary Received,Salary,1268.86,Income
+2024-08-03,Airline Ticket,Travel,33.75,Expense
+2024-08-08,Bowling Alley,Entertainment,44.64,Expense
+2024-08-09,Household Supplies,Health & Fitness,87.66,Expense
+2024-08-11,Office Supplies,Investment,118.18,Income
+2024-08-14,Target,Shopping,206.15,Expense
+2024-08-14,Arcade,Entertainment,76.26,Expense
+2024-08-14,Rent Paid,Rent,923.99,Expense
+2024-08-15,Pet Supplies,Health & Fitness,59.33,Expense
+2024-08-22,Concert Ticket,Entertainment,110.71,Expense
+2024-08-23,Other,Other,172.97,Income
+2024-08-25,Amazon Purchase,Shopping,144.12,Expense
+2024-08-25,Uber Ride,Travel,341.09,Expense
+2024-08-25,Other,Other,170.56,Income
+2024-08-27,Hotel Stay,Travel,42.01,Expense
+2024-08-27,Salary Received,Salary,1268.86,Income
+2024-08-28,Salary Received,Salary,1268.86,Income
+2024-08-28,Grocery Store,Food & Drink,26.82,Expense
+2024-08-28,Clothing Store,Shopping,197.43,Expense
+2024-08-30,Arcade,Entertainment,74.18,Expense
+2024-09-01,Office Supplies,Health & Fitness,97.74,Expense
+2024-09-02,Other,Other,76.57,Income
+2024-09-05,Electronics Shop,Shopping,153.34,Expense
+2024-09-05,Rent Paid,Rent,923.99,Expense
+2024-09-05,Other,Other,338.33,Income
+2024-09-05,Uber Ride,Travel,426.71,Expense
+2024-09-06,Bowling Alley,Entertainment,41.0,Expense
+2024-09-07,Household Supplies,Investment,291.27,Income
+2024-09-08,Concert Ticket,Entertainment,90.61,Expense
+2024-09-10,Pet Supplies,Health & Fitness,68.04,Expense
+2024-09-13,Office Supplies,Investment,407.26,Income
+2024-09-15,McDonald's,Food & Drink,11.16,Expense
+2024-09-16,Household Supplies,Health & Fitness,52.73,Expense
+2024-09-17,Airline Ticket,Travel,519.42,Expense
+2024-09-17,Airline Ticket,Travel,138.19,Expense
+2024-09-17,Water Bill,Utilities,82.47,Expense
+2024-09-18,Salary Received,Salary,1268.86,Income
+2024-09-21,Other,Other,413.43,Income
+2024-09-22,Phone Bill,Utilities,173.88,Expense
+2024-09-23,Other,Other,247.04,Income
+2024-09-24,Local Burger Joint,Food & Drink,22.39,Expense
+2024-09-25,Rent Paid,Rent,923.99,Expense
+2024-09-26,Uber Ride,Travel,172.62,Expense
+2024-09-26,Airline Ticket,Travel,23.18,Expense
+2024-09-27,Pet Supplies,Health & Fitness,63.33,Expense
+2024-09-27,Amazon Purchase,Shopping,218.94,Expense
+2024-10-01,Amazon Purchase,Shopping,75.08,Expense
+2024-10-01,Pet Supplies,Investment,42.82,Income
+2024-10-02,Hotel Stay,Travel,21.81,Expense
+2024-10-02,Amazon Purchase,Shopping,145.39,Expense
+2024-10-03,Electric Bill,Utilities,55.48,Expense
+2024-10-04,Other,Other,69.2,Expense
+2024-10-04,Other,Other,480.07,Income
+2024-10-07,Thai Restaurant,Food & Drink,39.21,Expense
+2024-10-08,Grocery Store,Food & Drink,27.56,Expense
+2024-10-09,Rent Paid,Rent,923.99,Expense
+2024-10-10,Office Supplies,Health & Fitness,61.62,Expense
+2024-10-10,Car Rental,Travel,274.29,Expense
+2024-10-11,Office Supplies,Health & Fitness,16.45,Expense
+2024-10-12,Bowling Alley,Entertainment,89.26,Expense
+2024-10-15,Internet Bill,Utilities,175.31,Expense
+2024-10-17,Office Supplies,Health & Fitness,69.08,Expense
+2024-10-17,Salary Received,Salary,1294.24,Income
+2024-10-18,Airline Ticket,Travel,348.72,Expense
+2024-10-19,Electric Bill,Utilities,68.01,Expense
+2024-10-19,Electronics Shop,Shopping,62.38,Expense
+2024-10-21,Rent Paid,Rent,923.99,Expense
+2024-10-21,Household Supplies,Health & Fitness,7.27,Expense
+2024-10-21,Train Ticket,Travel,431.09,Expense
+2024-10-23,Salary Received,Salary,1294.24,Income
+2024-10-24,Salary Received,Salary,1294.24,Income
+2024-10-28,Office Supplies,Investment,310.58,Income
+2024-11-01,Hotel Stay,Travel,71.27,Expense
+2024-11-02,Rent Paid,Rent,923.99,Expense
+2024-11-03,Rent Paid,Rent,923.99,Expense
+2024-11-03,Grocery Store,Food & Drink,8.24,Expense
+2024-11-11,Rent Paid,Rent,923.99,Expense
+2024-11-11,Rent Paid,Rent,923.99,Expense
+2024-11-12,Car Rental,Travel,215.83,Expense
+2024-11-13,Salary Received,Salary,1294.24,Income
+2024-11-13,Pet Supplies,Investment,409.33,Income
+2024-11-13,Other,Other,85.38,Expense
+2024-11-13,Salary Received,Salary,1294.24,Income
+2024-11-14,Uber Ride,Travel,395.92,Expense
+2024-11-14,Household Supplies,Investment,219.64,Income
+2024-11-16,Online Retail Order,Shopping,41.61,Expense
+2024-11-17,Airline Ticket,Travel,243.19,Expense
+2024-11-17,Streaming Subscription,Entertainment,108.82,Expense
+2024-11-17,Pet Supplies,Health & Fitness,100.26,Expense
+2024-11-17,Office Supplies,Investment,121.19,Income
+2024-11-18,Phone Bill,Utilities,54.28,Expense
+2024-11-18,Local Burger Joint,Food & Drink,34.71,Expense
+2024-11-19,Salary Received,Salary,1294.24,Income
+2024-11-20,Train Ticket,Travel,311.46,Expense
+2024-11-20,Pet Supplies,Health & Fitness,14.47,Expense
+2024-11-22,Target,Shopping,221.38,Expense
+2024-11-23,Other,Other,90.68,Expense
+2024-11-24,Rent Paid,Rent,923.99,Expense
+2024-11-24,Hotel Stay,Travel,335.29,Expense
+2024-11-24,Hotel Stay,Travel,563.01,Expense
+2024-11-25,Electric Bill,Utilities,45.22,Expense
+2024-11-25,Other,Other,446.96,Income
+2024-11-25,Salary Received,Salary,1294.24,Income
+2024-11-26,Pet Supplies,Investment,179.51,Income
+2024-11-29,Household Supplies,Investment,106.28,Income
+2024-11-30,Salary Received,Salary,1294.24,Income
+2024-12-02,Internet Bill,Utilities,117.05,Expense
+2024-12-05,Clothing Store,Shopping,89.0,Expense
+2024-12-06,Office Supplies,Health & Fitness,58.62,Expense
+2024-12-09,Household Supplies,Health & Fitness,18.69,Expense
+2024-12-11,Internet Bill,Utilities,175.43,Expense
+2024-12-12,Rent Paid,Rent,923.99,Expense
+2024-12-12,Other,Other,29.82,Expense
+2024-12-15,Rent Paid,Rent,923.99,Expense
+2024-12-16,Electronics Shop,Shopping,136.54,Expense
+2024-12-19,Coffee Shop,Food & Drink,16.53,Expense
+2024-12-19,Rent Paid,Rent,923.99,Expense
+2024-12-21,Salary Received,Salary,1294.24,Income
+2024-12-23,Office Supplies,Health & Fitness,63.3,Expense
+2024-12-28,Rent Paid,Rent,923.99,Expense
+2024-12-28,Concert Ticket,Entertainment,84.52,Expense
+2024-12-28,Household Supplies,Investment,277.58,Income
+2024-12-29,Target,Shopping,134.41,Expense
+2024-12-29,Other,Other,332.08,Income

@@ -1,0 +1,6 @@
+# Ignore vim swap files.
+.sw*
+.*.sw*
+
+# Ignore Libreoffice lock files.
+.~lock.*#

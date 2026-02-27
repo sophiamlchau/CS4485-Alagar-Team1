@@ -5,8 +5,15 @@
 # Ignore Libreoffice lock files.
 .~lock.*#
 
-# Node / Next.js
-BudgetWise/node_modules/
-BudgetWise/.next/
-BudgetWise/.turbo/
-BudgetWise/.vercel/
+# Next.js
+.next/
+out/
+.vercel/
+.turbo/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

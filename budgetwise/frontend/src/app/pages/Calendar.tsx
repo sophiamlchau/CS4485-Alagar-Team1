@@ -153,12 +153,14 @@ const mockTransactions: Transaction[] = [
 ];
 
 const categoryColors: Record<string, string> = {
-  "Food & Dining": "#FF6B6B",
+  "Food & Dining": "#DC2626",
+  Groceries: "#16A34A",
   Transportation: "#4ECDC4",
   "Books & Supplies": "#45B7D1",
   Entertainment: "#FFA07A",
   Housing: "#98D8C8",
-  Utilities: "#F7DC6F",
+  Utilities: "#D97706",
+  Health: "#0891B2",
   "Personal Care": "#BB8FCE",
   Other: "#95A5A6",
   Salary: "#10B981",

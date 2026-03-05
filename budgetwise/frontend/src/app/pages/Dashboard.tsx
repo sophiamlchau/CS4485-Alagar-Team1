@@ -1,14 +1,70 @@
-import { TrendingUp, TrendingDown, DollarSign, AlertCircle } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { TrendingUp, TrendingDown, DollarSign, AlertCircle, Loader2 } from 'lucide-react';
 import { SpendingPieChart } from '../components/SpendingPieChart';
 import { RemainingBudgetChart } from '../components/RemainingBudgetChart';
 import { AIRecommendations } from '../components/AIRecommendations';
+import { apiJson } from '../lib/api';
+
+const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+export type DashboardData = {
+  month: number;
+  year: number;
+  totalBudget: number;
+  totalSpent: number;
+  remaining: number;
+  categoryBreakdown: { name: string; value: number; color: string }[];
+  remainingByCategory: { category: string; allocated: number; spent: number; remaining: number }[];
+};
 
 export function Dashboard() {
-  // Mock data for student budget
-  const totalBudget = 1200;
-  const totalSpent = 847.50;
-  const remaining = totalBudget - totalSpent;
-  const percentSpent = (totalSpent / totalBudget) * 100;
+  const [data, setData] = useState<DashboardData | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    setLoading(true);
+    setError(null);
+    apiJson('/api/dashboard')
+      .then((res: DashboardData) => {
+        if (!cancelled) setData(res);
+      })
+      .catch((err) => {
+        if (!cancelled) setError(err instanceof Error ? err.message : 'Failed to load dashboard');
+      })
+      .finally(() => {
+        if (!cancelled) setLoading(false);
+      });
+    return () => { cancelled = true; };
+  }, []);
+
+  const totalBudget = data?.totalBudget ?? 0;
+  const totalSpent = data?.totalSpent ?? 0;
+  const remaining = data?.remaining ?? 0;
+  const percentSpent = totalBudget > 0 ? (totalSpent / totalBudget) * 100 : 0;
+  const monthYearLabel = data
+    ? `${MONTH_NAMES[data.month - 1]} ${data.year}`
+    : `${MONTH_NAMES[new Date().getMonth()]} ${new Date().getFullYear()}`;
+
+  if (loading) {
+    return (
+      <div className="p-6 flex items-center justify-center min-h-[40vh]">
+        <Loader2 className="w-10 h-10 text-indigo-600 animate-spin" />
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="p-6">
+        <div className="max-w-7xl mx-auto rounded-xl bg-red-50 border border-red-200 p-6 text-red-800">
+          <p className="font-medium">Could not load dashboard</p>
+          <p className="text-sm mt-1">{error}</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="p-6">
@@ -16,7 +72,7 @@ export function Dashboard() {
         {/* Header */}
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-gray-900 mb-2">Student Budget Dashboard</h1>
-          <p className="text-gray-600">Track your spending and stay on budget - February 2026</p>
+          <p className="text-gray-600">Track your spending and stay on budget — {monthYearLabel}</p>
         </div>
 
         {/* Summary Cards */}
@@ -29,7 +85,7 @@ export function Dashboard() {
               <span className="text-sm text-gray-500">Total Budget</span>
             </div>
             <div className="text-3xl font-bold text-gray-900">${totalBudget.toFixed(2)}</div>
-            <p className="text-sm text-gray-500 mt-2">This month's budget</p>
+            <p className="text-sm text-gray-500 mt-2">This month&apos;s budget</p>
           </div>
 
           <div className="bg-white rounded-xl shadow-lg p-6 border border-gray-100">
@@ -40,7 +96,9 @@ export function Dashboard() {
               <span className="text-sm text-gray-500">Total Spent</span>
             </div>
             <div className="text-3xl font-bold text-gray-900">${totalSpent.toFixed(2)}</div>
-            <p className="text-sm text-gray-500 mt-2">{percentSpent.toFixed(1)}% of budget</p>
+            <p className="text-sm text-gray-500 mt-2">
+              {totalBudget > 0 ? `${percentSpent.toFixed(1)}% of budget` : 'No budget set'}
+            </p>
           </div>
 
           <div className="bg-white rounded-xl shadow-lg p-6 border border-gray-100">
@@ -51,22 +109,21 @@ export function Dashboard() {
               <span className="text-sm text-gray-500">Remaining</span>
             </div>
             <div className="text-3xl font-bold text-gray-900">${remaining.toFixed(2)}</div>
-            <p className="text-sm text-gray-500 mt-2">{(100 - percentSpent).toFixed(1)}% left</p>
+            <p className="text-sm text-gray-500 mt-2">
+              {totalBudget > 0 ? `${(100 - percentSpent).toFixed(1)}% left` : 'Set budgets to track'}
+            </p>
           </div>
         </div>
 
         {/* Charts Grid */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
-          {/* Monthly Spending Pie Chart */}
           <div className="bg-white rounded-xl shadow-lg p-6 border border-gray-100">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">Monthly Spending by Category</h2>
-            <SpendingPieChart />
+            <SpendingPieChart data={data?.categoryBreakdown ?? null} />
           </div>
-
-          {/* Remaining Budget */}
           <div className="bg-white rounded-xl shadow-lg p-6 border border-gray-100">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">Remaining Budget by Category</h2>
-            <RemainingBudgetChart />
+            <RemainingBudgetChart data={data?.remainingByCategory ?? null} />
           </div>
         </div>
 

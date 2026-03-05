@@ -1,17 +1,26 @@
 import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip } from 'recharts';
 
-const spendingData = [
-  { name: 'Food & Dining', value: 320, color: '#FF6B6B' },
+export type SpendingPieDatum = { name: string; value: number; color: string };
+
+const defaultSpendingData: SpendingPieDatum[] = [
+  { name: 'Food & Dining', value: 320, color: '#DC2626' },
+  { name: 'Groceries', value: 180, color: '#16A34A' },
   { name: 'Transportation', value: 85, color: '#4ECDC4' },
   { name: 'Books & Supplies', value: 150, color: '#45B7D1' },
   { name: 'Entertainment', value: 125, color: '#FFA07A' },
   { name: 'Housing', value: 0, color: '#98D8C8' },
-  { name: 'Utilities', value: 67.50, color: '#F7DC6F' },
+  { name: 'Utilities', value: 67.5, color: '#D97706' },
+  { name: 'Health', value: 45, color: '#0891B2' },
   { name: 'Personal Care', value: 60, color: '#BB8FCE' },
   { name: 'Other', value: 40, color: '#95A5A6' },
 ];
 
-export function SpendingPieChart() {
+type SpendingPieChartProps = {
+  data?: SpendingPieDatum[] | null;
+};
+
+export function SpendingPieChart({ data }: SpendingPieChartProps) {
+  const spendingData = (data && data.length > 0) ? data : defaultSpendingData;
   return (
     <ResponsiveContainer width="100%" height={350}>
       <PieChart>
@@ -27,7 +36,7 @@ export function SpendingPieChart() {
             <Cell key={`cell-${index}`} fill={entry.color} />
           ))}
         </Pie>
-        <Tooltip formatter={(value) => `$${value}`} />
+        <Tooltip formatter={(value) => `$${Number(value).toFixed(2)}`} />
         <Legend />
       </PieChart>
     </ResponsiveContainer>

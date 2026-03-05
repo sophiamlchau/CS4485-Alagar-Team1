@@ -8,6 +8,7 @@ import { healthRouter } from "./routes/health.js";
 import { authRouter } from "./routes/auth.js";
 import { profileRouter } from "./routes/profile.js";
 import { expensesRouter } from "./routes/expenses.js";
+import { dashboardRouter } from "./routes/dashboard.js";
 
 export function createApp() {
   const app = express();
@@ -22,6 +23,7 @@ export function createApp() {
   app.use("/api/auth", authRouter);
   app.use("/api/profile", profileRouter);
   app.use("/api/expenses", expensesRouter);
+  app.use("/api/dashboard", dashboardRouter);
 
   // OpenAPI contract is shipped with the repo under /openapi/openapi.yaml.
   // We intentionally do not serve Swagger UI yet, to keep the runtime minimal.

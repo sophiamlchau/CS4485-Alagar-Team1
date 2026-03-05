@@ -1,39 +1,42 @@
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, Legend } from 'recharts';
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts';
 
-const remainingData = [
+export type RemainingBudgetDatum = {
+  category: string;
+  allocated: number;
+  spent: number;
+  remaining: number;
+};
+
+const defaultRemainingData: RemainingBudgetDatum[] = [
   { category: 'Food & Dining', allocated: 400, spent: 320, remaining: 80 },
   { category: 'Transportation', allocated: 100, spent: 85, remaining: 15 },
   { category: 'Books & Supplies', allocated: 200, spent: 150, remaining: 50 },
   { category: 'Entertainment', allocated: 150, spent: 125, remaining: 25 },
   { category: 'Housing', allocated: 0, spent: 0, remaining: 0 },
-  { category: 'Utilities', allocated: 100, spent: 67.50, remaining: 32.50 },
+  { category: 'Utilities', allocated: 100, spent: 67.5, remaining: 32.5 },
   { category: 'Personal Care', allocated: 100, spent: 60, remaining: 40 },
   { category: 'Other', allocated: 150, spent: 40, remaining: 110 },
 ];
 
-const getBarColor = (remaining: number, allocated: number) => {
-  const percentRemaining = (remaining / allocated) * 100;
-  if (percentRemaining > 40) return '#82ca9d'; // Green
-  if (percentRemaining > 15) return '#ffd54f'; // Yellow
-  return '#ff6b6b'; // Red
+type RemainingBudgetChartProps = {
+  data?: RemainingBudgetDatum[] | null;
 };
 
-export function RemainingBudgetChart() {
+export function RemainingBudgetChart({ data }: RemainingBudgetChartProps) {
+  const remainingData = (data && data.length > 0) ? data : defaultRemainingData;
   return (
     <ResponsiveContainer width="100%" height={400}>
       <BarChart data={remainingData} layout="vertical">
         <CartesianGrid strokeDasharray="3 3" />
-        <XAxis type="number" />
+        <XAxis type="number" tickFormatter={(v) => `$${v}`} />
         <YAxis dataKey="category" type="category" width={150} />
-        <Tooltip 
-          formatter={(value, name) => {
-            if (name === 'Remaining') return [`$${value}`, name];
-            return value;
-          }}
+        <Tooltip
+          formatter={(value: number) => [`$${value.toFixed(2)}`, undefined]}
+          contentStyle={{ backgroundColor: '#fff', border: '1px solid #e5e7eb', borderRadius: '8px' }}
         />
         <Legend />
         <Bar dataKey="spent" stackId="a" fill="#8884d8" name="Spent" />
-        <Bar dataKey="remaining" stackId="a" name="Remaining" fill="#000000" />
+        <Bar dataKey="remaining" stackId="a" name="Remaining" fill="#82ca9d" />
       </BarChart>
     </ResponsiveContainer>
   );

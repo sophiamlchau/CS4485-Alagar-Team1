@@ -30,11 +30,14 @@ const expenseCategories = [
   'Rent',
   'Groceries',
   'Tuition',
+  'Food & Dining',
   'Transportation',
+  'Books & Supplies',
   'Entertainment',
+  'Personal Care',
+  'Health & Fitness',
   'Utilities',
-  'Health',
-  'Dining',
+  'Savings',
   'Other',
 ];
 

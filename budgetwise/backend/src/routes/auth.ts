@@ -49,16 +49,16 @@ authRouter.post("/resetPassword", async (req, res) => {
 
 	const { email, password } = parsed.data;
 
-	const userId = await prisma.user.findUnique({
+  const userRef = await prisma.user.findUnique({
 		where: { email },
 		select: { id: true },
 	});
-	if (!userId) return res.status(401).json({ error: "Invalid credentials" });
+  if (!userRef) return res.status(401).json({ error: "Invalid credentials" });
 
 	const passwordHash = await bcrypt.hash(password, PASSWORD_HASH_SALT);
 	const user = await prisma.user.update({
-		where: { id: userId },
-		date: { passwordHash },
+    where: { id: userRef.id },
+    data: { passwordHash },
 	});
 
 	const token = signAccessToken({ sub: user.id, email: user.email });

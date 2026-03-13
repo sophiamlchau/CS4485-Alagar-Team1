@@ -11,7 +11,7 @@ function AppShell({ children }: { children: ReactNode }) {
   const pathname = usePathname();
   const router = useRouter();
 
-  const publicRoutes = ['/login', '/register', '/forgot-password'];
+  const publicRoutes = ['/login', '/register', '/forgot-password', '/reset-password'];
   const isPublic = publicRoutes.includes(pathname);
 
   useEffect(() => {
